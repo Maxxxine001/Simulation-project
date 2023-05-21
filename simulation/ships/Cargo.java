@@ -11,11 +11,11 @@ public class Cargo extends Ship{
     private static final int UNLOADING_POWER_PER_DAY = 3500;
     private static final int LOADING_POWER_PER_DAY = 5000;
     
-    public int tonnage;
+    private int tonnage;
     
     
-    public Cargo( int size, int id, int tonnage){
-        super(size,id);
+    public Cargo(){
+        super(id);
         Random random = new Random();
         this.tonnage = random.nextInt(MIN_TONNAGE, MAX_TONNAGE);
     }

@@ -1,14 +1,14 @@
 
 package simulation.ships;
 
-public abstract class Ship {
-    
+public class Ship {
+    protected static int idCount=1000;
     protected int size;
     protected int id;
-    
-    public Ship(int size, int id){
-        this.size = size;
-        this.id = id;
+
+    public Ship(){
+        this.id = idCount;
+        idCount+=1;
     }
     
     protected abstract float Rent();

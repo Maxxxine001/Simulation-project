@@ -1,20 +1,32 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
+
 package simulation;
 
-/**
- *
- * @author maxxx
- */
+import java.io.DataInput;
+
 public class Simulation {
 
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
+    protected static int DayInput(){
+        System.out.println("Witaj w programie symulującym działanie portu morskiego.\n" +
+                "Wprowadź liczbę dni, odpowiadającą długości trwania okresu mierzonego.\n" +
+                "Dodatkowe informacje o przebiegu symulacji zostaną zawarte w pliku \"Logs\".");
+        Scanner In = new Scanner(System.in);
+        int x = In.nextInt();
+    return x;}
+    /*protected static void Inputcheck(int Input) {
+        Scanner In = new Scanner(System.in);
+        x=In.nextInt()
+        if(x<=365) {
+        return x;}
+        else if (x>365){
+        x=365;
+        return x;}
+        else {
+            System.out.println("następnym razem wprowadź właściwą wartość.");}*/
     }
+    public static void main(String[] args) {
+        System.out.println(DayInput());
+
+        }
+
     
 }
