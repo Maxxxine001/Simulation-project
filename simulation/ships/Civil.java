@@ -12,7 +12,7 @@ public class Civil extends Ship{
     
     public int residenceDays;
     
-    public Civil(int size, int residenceTime) {
+    public Civil() {
         super(id);
         Random random = new Random();
         this.residenceDays = random.nextInt(MIN_RESIDENCE_TIME, MAX_RESIDENCE_TIME);

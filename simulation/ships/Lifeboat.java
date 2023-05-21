@@ -3,14 +3,19 @@ package simulation.ships;
 import java.util.Random;
 
 
-public class Lifeboat {
+public class Lifeboat extends Ship{
     
     
-    protected Lifeboat(){
+    public Lifeboat(){
         
     }
-    
-    
+
+    @Override
+    protected float Rent() {
+        return 0;
+    }
+
+
     public static void Intervening(){
         
     }

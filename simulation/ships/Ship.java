@@ -1,7 +1,7 @@
 
 package simulation.ships;
 
-public class Ship {
+public abstract class Ship {
     protected static int idCount=1000;
     protected int size;
     protected int id;
