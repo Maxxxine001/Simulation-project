@@ -73,22 +73,29 @@ public class Day {
     protected static void CargosDocking(){
         Random random = new Random();
         int TodaysWaitingCargos = random.nextInt(3) ; //Ta zmienna definiuje ile statków cargo przypłynie w danym dniu (od 0 do 2)
+        int Queue = TodaysWaitingCargos+PreviousWaitingCargos; //!!na koniec trzeba ustalić na nowo PWC w przypadku sailing permission
             if (SailingPermission=true) {
-                int TodaysDockingCargos += PreviousWaitingCargos;
                 //przerwa na kod odpowiadający za maksymalny przepływ statków
                 for (Object DockingCargo : AllShips) {//ta część odpowiada za znalezienie elementru cargo z listy wszystkich statków i przeniesienie go do listy zdokowanych statków
                     if (DockingCargo instanceof Cargo) {
                         DockedShips.add(DockingCargo);
+                        DailyIncome+=DockingCargo.Rent();
                         AllShips.remove(DockingCargo);
-                        break;
-                    }
+                        break;}
                 }
             }
             else{ //(SailingPermission=False)
-                PreviousWaitingCargos+=TodaysWaitingCargos;
+                PreviousWaitingCargos=Queue;
             }
     }
     protected static void ShipsLeavingDocks(){
+
+    }
+    protected static void CivilsDocking(){
+    Random random = new Random();
+    int TodaysHaulingCivils =
+    }
+    protected static void SavingLogs(){
 
     }
     protected static void PassingDayActions(){
@@ -99,7 +106,7 @@ public class Day {
         ShipsLeavingDocks();
         CivilsDocking();
         CargosDocking();
-        LogsSaved();
+        SavingLogs();
         DayCount+=1;
     }
 }
