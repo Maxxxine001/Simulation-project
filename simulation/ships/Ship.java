@@ -11,5 +11,7 @@ public abstract class Ship {
         idCount+=1;
     }
     
-    protected abstract float Rent();
+    protected abstract float Rent();{
+
+    }
 }
