@@ -4,21 +4,23 @@ import java.util.Random;
 
 
 public class Lifeboat extends Ship{
+
+    private static final int LIFEBOATSIZE = 15;
+    private static final int RENTCOST = 50;
     
-    
-    public Lifeboat(){
-        
+    public Lifeboat(int Days){
+        this.ResidenceDays=Days+1;
+        this.size=LIFEBOATSIZE;
     }
 
     @Override
-    protected float Rent() {
-        return 0;
+    public int Rent() {
+        return RENTCOST*this.ResidenceDays;
     }
 
 
-    public static void Intervening(){
-        
+    public static int InterveningCost(Ship x) {
+        if (x instanceof Cargo) return 100;
+        else return 30;
     }
-    
-    
 }
