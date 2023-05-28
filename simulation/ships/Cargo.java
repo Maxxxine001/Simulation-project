@@ -34,9 +34,7 @@ public class Cargo extends Ship{
     }
     
     @Override
-    public float Rent(){
-        return (this.UnloadingDays() + this.LoadingDays()) * DOCKING_PRICE_PER_DAY + tonnage;
-    }
+    public float Rent(){ return (this.UnloadingDays() + this.LoadingDays()) * DOCKING_PRICE_PER_DAY + tonnage;}
     
     
 }
