@@ -13,13 +13,13 @@ public class Civil extends Ship{
     public int residenceDays;
     
     public Civil() {
-        super(id);
+        super();
         Random random = new Random();
         this.residenceDays = random.nextInt(MIN_RESIDENCE_TIME, MAX_RESIDENCE_TIME);
     }
     
     @Override
-    protected float Rent() {
+    public float Rent() {
         return HAULING_PRICE * 2 + residenceDays * RESIDENCE_PRICE_PER_DAY;
     }
         

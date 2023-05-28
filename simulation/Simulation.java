@@ -2,6 +2,7 @@
 package simulation;
 
 import java.io.DataInput;
+import java.util.Scanner;
 
 public class Simulation {
 

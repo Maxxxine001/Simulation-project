@@ -19,15 +19,15 @@ public class Day {
     //wszystko poniżej to dane specyficzne dla konkretnego dnia
     private static int DayCount = 1;
     private static boolean SailingPermission = true;
-    protected static LinkedList AllShips = GenerateShips();
+    protected static LinkedList<Ship> AllShips = GenerateShips();
     protected static LinkedList DockedShips = new LinkedList<Ship>();
     private static int PreviousWaitingCargos=0;
     protected int DailyIncome=0; //dane dla logów
 
     //sekcja funkcji poniżej
-    private static LinkedList GenerateShips (){ //funkcja odpowiadająca za utworzenie listy wszystkich statków znajdujących się na akwenie
+    private static LinkedList<Ship> GenerateShips (){ //funkcja odpowiadająca za utworzenie listy wszystkich statków znajdujących się na akwenie
         int i;
-    LinkedList List = new LinkedList<Ship>();
+        LinkedList<Ship> List = new LinkedList<Ship>();
         //dodawanie łodzi ratunkowych
         Lifeboat[] Lifeboats = new Lifeboat[LifeboatsAmount];
         for(i=0;i<LifeboatsAmount;i++){
@@ -70,13 +70,13 @@ public class Day {
             }
         }
     }
-    protected static void CargosDocking(){
+    protected  void CargosDocking(){
         Random random = new Random();
         int TodaysWaitingCargos = random.nextInt(3) ; //Ta zmienna definiuje ile statków cargo przypłynie w danym dniu (od 0 do 2)
         int Queue = TodaysWaitingCargos+PreviousWaitingCargos; //!!na koniec trzeba ustalić na nowo PWC w przypadku sailing permission
             if (SailingPermission=true) {
                 //przerwa na kod odpowiadający za maksymalny przepływ statków
-                for (Object DockingCargo : AllShips) {//ta część odpowiada za znalezienie elementru cargo z listy wszystkich statków i przeniesienie go do listy zdokowanych statków
+                for (Ship DockingCargo : AllShips) {//ta część odpowiada za znalezienie elementru cargo z listy wszystkich statków i przeniesienie go do listy zdokowanych statków
                     if (DockingCargo instanceof Cargo) {
                         DockedShips.add(DockingCargo);
                         DailyIncome+=DockingCargo.Rent();
@@ -93,12 +93,12 @@ public class Day {
     }
     protected static void CivilsDocking(){
     Random random = new Random();
-    int TodaysHaulingCivils =
+    int TodaysHaulingCivils = 0;
     }
     protected static void SavingLogs(){
 
     }
-    protected static void PassingDayActions(){
+    protected void PassingDayActions(){
         int TodaysCargoFlow = 0;
         SailingPermission=true;
         CargosAccidentsPossibility();

@@ -11,7 +11,7 @@ public class Lifeboat extends Ship{
     }
 
     @Override
-    protected float Rent() {
+    public float Rent() {
         return 0;
     }
 

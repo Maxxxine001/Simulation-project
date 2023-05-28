@@ -15,7 +15,7 @@ public class Cargo extends Ship{
     
     
     public Cargo(){
-        super(id);
+        super();
         Random random = new Random();
         this.tonnage = random.nextInt(MIN_TONNAGE, MAX_TONNAGE);
     }
@@ -34,7 +34,7 @@ public class Cargo extends Ship{
     }
     
     @Override
-    protected float Rent(){
+    public float Rent(){
         return (this.UnloadingDays() + this.LoadingDays()) * DOCKING_PRICE_PER_DAY + tonnage;
     }
     
