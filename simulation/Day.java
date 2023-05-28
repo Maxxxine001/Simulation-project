@@ -6,6 +6,7 @@ import simulation.ships.Ship;
 import simulation.ships.Civil;
 import java.util.LinkedList;
 import java.util.Iterator;
+import java.io.PrintWriter;
 
 public class Day {
 
@@ -203,6 +204,13 @@ public class Day {
         else{
             Log+="This day was unfortunate for the sailors.\n" +
                     "The accident caused closing the sea traffic and generated cost total of: "+"\n";
+        }
+    }
+    public static void SaveToTxt(String data){
+        try {
+            PrintWriter out = new PrintWriter("Logs.txt");
+        } catch(Exception exception) {
+            System.out.println("Zapis do pliku nie powdiódł się.");
         }
     }
     protected void PassingDayActions(){
