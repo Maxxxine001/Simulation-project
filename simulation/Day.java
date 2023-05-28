@@ -5,6 +5,7 @@ import simulation.ships.Cargo;
 import simulation.ships.Ship;
 import simulation.ships.Civil;
 import java.util.LinkedList;
+import java.io.PrintWriter;
 
 public class Day {
     private static final int DayAmount = 10; //do zmiany
@@ -109,8 +110,12 @@ public class Day {
 
     }
 
-    public static void SaveToTxt(){
-
+    public static void SaveToTxt(String data){
+        try {
+            PrintWriter out = new PrintWriter("Logs.txt");
+        } catch(Exception exception) {
+            System.out.println("Zapis do pliku nie powdiódł się.");
+        }
     }
 
     protected void PassingDayActions(){
