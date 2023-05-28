@@ -14,6 +14,7 @@ public class Lifeboat extends Ship{
     }
 
     @Override
+
     public int Rent() {
         return RENTCOST*this.ResidenceDays;
     }

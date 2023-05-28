@@ -67,6 +67,7 @@ public class Day {
         List.add(Civils[i]);
         }
     return List;}
+
     //Funkcja zwracająca liste statków klasy Lifeboat.
     private static LinkedList<Lifeboat> GenerateLifeboats (){
         LinkedList<Lifeboat>List = new LinkedList<Lifeboat>();
@@ -85,20 +86,17 @@ public class Day {
             cost+=lifeboat.Rent();
         }
     return cost;}
+
     //Funkcja odpowiadająca za występowanie awarii statków Civil:
     private void CivilsAccidentsPossibility(){
         Random random = new Random();
-        double probability = 0.1*Math.log(CivilsAmount+1)/Math.log(1296);//Logarytmiczna zależność pomiędzy ilością statków civil, a częstotliwością awarii.
-        if(random.nextDouble()<probability) {
-            this.SailingPermission = false;
-            for (Object DamagedCivil : AllShips) {
-                if (DamagedCivil instanceof Civil) {
-                    AllShips.remove(DamagedCivil);
-                    this.DailyIncome-=Lifeboat.InterveningCost((Civil) DamagedCivil);
-                break;}
-            }
+        double probability = 0.1 * Math.log(CivilsAmount + 1) / Math.log(1296);
+        if(random.nextDouble()<probability){
+            SailingPermission = false;
+            AllShips.remove();
         }
     }
+
     //Funkcja odpowiadająca za występowanie awarii statków Cargo:
     private void CargosAccidentsPossibility(){
         Random random = new Random();
@@ -148,7 +146,7 @@ public class Day {
             Ship DockedShip = iterator.next();
             //W przypadku kiedy statek jest klasy Cargo:
             if (DockedShip instanceof Cargo) {
-                while(this.DailyCargoFlow<MAXCARGOSFLOW) {//Dodatkowe Ograniczenie spowodowane maksymalnym przepływem statków cargo.
+                while (this.DailyCargoFlow < MAXCARGOSFLOW) {//Dodatkowe Ograniczenie spowodowane maksymalnym przepływem statków cargo.
                     Cargo DockedCargo = (Cargo) DockedShip;
                     DockedCargo.ResidenceDays -= 1;//Zmniejszenie czasu pobytu statku o 1 dzień
                     if (DockedCargo.ResidenceDays <= 0) {//Jeśli danemu statkowi upłynie termin pobytu, zachodzą poniższe zmiany:
@@ -171,11 +169,12 @@ public class Day {
             }
         }
     }
-    protected void CivilsDocking(){
-    Random random = new Random();
-    int TodaysHaulingCivils = random.nextInt(MAXDAILYHAULINGS-MINDAILYHAULING)+MINDAILYHAULING;//Wygenerowana liczba statków klasy Civil przybijająca tego dnia do portu
+
+    protected void CivilsDocking() {
+        Random random = new Random();
+        int TodaysHaulingCivils = random.nextInt(MAXDAILYHAULINGS - MINDAILYHAULING) + MINDAILYHAULING;//Wygenerowana liczba statków klasy Civil przybijająca tego dnia do portu
         //Warunek 1 odnosi się do pozwolenia na płynięcie wydane przez służby, warunek 2 odnosi się do maksymalnej ilości statków klasy Civil mogących przebywać w porcie.
-        while (this.SailingPermission && DockedCivilsAmount<MAXCIVILSINDOCKS && TodaysHaulingCivils>0){
+        while (this.SailingPermission && DockedCivilsAmount < MAXCIVILSINDOCKS && TodaysHaulingCivils > 0) {
             Iterator<Ship> iterator = AllShips.iterator();
             while (iterator.hasNext()) {
                 Ship SomeShip = iterator.next();
@@ -218,5 +217,7 @@ public class Day {
         DayCount+=1;
         PassingDayActions();
         TotalIncome+=this.DailyIncome;
+        DayCount++;
     }
+
 }

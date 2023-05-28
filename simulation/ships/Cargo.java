@@ -27,4 +27,5 @@ public class Cargo extends Ship{
     @Override
     public int Rent(){
         return this.ResidenceDays * DOCKING_PRICE_PER_DAY + this.size * PRICE_FOR_SIZE;}
+
 }
