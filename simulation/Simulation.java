@@ -5,26 +5,6 @@ import java.util.Scanner;
 import java.util.InputMismatchException;
 
 public class Simulation {
-
-    /*protected static int DayInput() {
-        System.out.println("Witaj w programie symulującym działanie portu morskiego.\n" +
-                "Wprowadź liczbę dni, odpowiadającą długości trwania okresu mierzonego  z przedziału 1 - 365.\n" +
-                "Dodatkowe informacje o przebiegu symulacji zostaną zawarte w pliku \"Logs\".");
-        Scanner input = new Scanner(System.in);
-        int x = input.nextInt();
-
-        if(x < 1 || x > 365){
-            System.out.println("Podałeś liczbę spoza zakresu, wprowadź dane ponownie : \n");
-            Scanner input2 = new Scanner(System.in);
-            x = input2.nextInt();
-
-            if(x < 1 || x > 365){
-                DayInput();
-            }
-        }
-        return x;
-    }*/
-
     public static int DayInput() {
         Scanner scanner = new Scanner(System.in);
         int liczba;
@@ -36,8 +16,9 @@ public class Simulation {
             try {
                 liczba = scanner.nextInt();
                 if (liczba >= 1 && liczba <= 365) {
+
                     break;
-                } else if(liczba => 365){
+                } else if (liczba >= 365){
                     System.out.println("Wprowadzona liczba zostanie zamieniona na maksymalną dostępną wartość");
                     liczba = 365;
                     break;
@@ -47,20 +28,32 @@ public class Simulation {
                 scanner.nextLine();
             }
         }
-
         return liczba;
     }
-    public static void SaveToTxt(String data){
+    private static void SaveToTxt(String data){
         try {
             PrintWriter out = new PrintWriter("Logs.txt");
+            out.println(data);
+            out.close();
         } catch(Exception exception) {
             System.out.println("Zapis do pliku nie powdiódł się.");
         }
     }
+    private static void RunSimulation(int Time){
+        Day.DayAmount = Time;
+        Day[] simulation = new Day[Time];
+        for (int i=0;i<Time;i++){
+        simulation[i] = new Day();
+        }
+    }
+    private static void FinalCommunicate(){
+        System.out.println("W ciągu trwania symulacji, port wygenerował łączny przychód "+Day.TotalIncome);
+    }
     public static void main(String[] args) {
-    int DayAmount = DayInput();
-    System.out.println(DayAmount);
-    SaveToTxt(Day.Log);
+        int SimulationTime = DayInput();
+        RunSimulation(SimulationTime);
+        SaveToTxt(Day.Log);
+        FinalCommunicate();
     }
 }
 

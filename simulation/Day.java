@@ -9,25 +9,28 @@ import java.util.Iterator;
 
 public class Day {
 
-    //Sekcja stałych symulacji.
+    //Sekcja stałych symulacji (finalnych).
 
-    private static final int DayAmount = 10; //Zmienna zwracana z klasy głównej,(do zmiany).
-    private static final int LifeboatsAmount = 2;//Stała określająca ilość łodzi ratunkowych.
-    private static final int CargosAmount = 100+DayAmount;//Ilość statków klasy Cargo wygenerowanych dla całej symulacji.
-    private static final int MAXCARGOSINDOCKS = 8;//Maksymalna ilość statków Cargo, które mogą na raz przebywać w porcie.
-    private static final int MAXCARGOSFLOW = 3;//Maksymalna ilość statków klasy Cargo, które mogą w danym dniu przepłynąć z i do portu.
-    private static final int CivilsAmount = 200+DayAmount*3;//Ilość statków klasy Civil, wygenerowanych dla całej symulacji.
-    private static final int MAXCIVILSINDOCKS = 95;//Maksymalna ilość statków klasy Civil w porcie.
-    private static final int MAXDAILYHAULINGS = 7;//Maksymalna ilość statków klasy Civil, które mogą jednego dnia wpłynąć do portu.
-    private static final int MINDAILYHAULING = 3;//Minimalna ilość statków klasy Civil, które mogą jednego dnia wpłynąć do portu.
+    private static final int LIFEBOATS_AMOUNT = 2;//Stała określająca ilość łodzi ratunkowych.
+    private static final int MAX_CARGOS_IN_DOCKS = 8;//Maksymalna ilość statków Cargo, które mogą na raz przebywać w porcie.
+    private static final int MAX_CARGOS_fLOW = 3;//Maksymalna ilość statków klasy Cargo, które mogą w danym dniu przepłynąć z i do portu.
+    private static final int MAX_CIVILS_IN_DOCKS = 95;//Maksymalna ilość statków klasy Civil w porcie.
+    private static final int MAX_DAILY_HAULING = 7;//Maksymalna ilość statków klasy Civil, które mogą jednego dnia wpłynąć do portu.
+    private static final int MIN_DAILY_HAULINGS = 3;//Minimalna ilość statków klasy Civil, które mogą jednego dnia wpłynąć do portu.
 
-    //Sekcja zmiennych stałych statycznych
+    //Sekcja stałych statycznych
 
-    private static int DayCount = 1; //Odliczanie dni.
-    protected static int TotalIncome=-LifeboatsRenting(); //Zmienna zliczająca zyski i straty ze wszystkich dni. Zaczynając od opłat za wynajęcie łodzi.
+    public static int DayAmount; //Zmienna zwracana z klasy głównej, deklarująca przez ile dni będzie trwała symulacja. Potrzebna do wygenerowania ograniczonej liczby statków.
+    private static int CargosAmount = 100+DayAmount;//Ilość statków klasy Cargo wygenerowanych dla całej symulacji.
+    private static int CivilsAmount = 200+DayAmount*3;//Ilość statków klasy Civil, wygenerowanych dla całej symulacji.
     protected static LinkedList<Ship> AllShips = GenerateShips();//Lista statków klas Cargo i Civil, które istnieją w symulacji, ale nie przebywają w porcie.
     protected static LinkedList<Ship> DockedShips = new LinkedList<>();//Lista statków obecnie zadokowanych do portu.
     protected static LinkedList<Lifeboat> Lifeboats = GenerateLifeboats(); //Osobna Lista zawierająca jednostki ratunkowe portu.
+
+    //Sekcja zmiennych statycznych
+
+    private static int DayCount = 1; //Odliczanie dni.
+    protected static int TotalIncome=-LifeboatsRenting(); //Zmienna zliczająca zyski i straty ze wszystkich dni. Zaczynając od opłat za wynajęcie łodzi.
     protected static int DockedCargosAmount = 0;//Całkowita liczba zadokowanych statków typu Cargo.
     protected static int DockedCivilsAmount = 0;//Całkowita liczba zadokowanych statków typu Civil.
     protected static int WaitingCargos = 0;//Liczba statków typu Cargo, oczekujących na wpłynięcie do portu.
@@ -36,7 +39,7 @@ public class Day {
 
     protected int DailyIncome=0;//Dzienny przychód portu.
     private int DailyCargoFlow=0;//Dzienny przepływ statków Cargo.
-    protected int DailyDockedCivils = 0;//(może nie potrzebne?)Zadokowane tego dnia statki typu Civil.
+    protected int DailyDockedCivils = 0;//Zadokowane tego dnia statki typu Civil.
     protected int DailyDockedCargos = 0;//Zadokowane tego dnia statki typu Cargo.
     protected boolean SailingPermission = true; //Port zamknięty lub otwarty dla ruchu morskiego.
     public static String Log = GenerateFirstLog(); // Komunikat startowy, rozszerzany o następne dni w trakcie trwania symulacji.
@@ -47,9 +50,9 @@ public class Day {
     private static String GenerateFirstLog(){
         String OpeningMessage="Simulation Specifications:\n"
                 +"Time duration: "+DayAmount+"days\n"
-                +"Lifeboats rented: "+LifeboatsAmount+"\n"
+                +"Lifeboats rented: "+LIFEBOATS_AMOUNT+"\n"
                 +"Total cost of rented lifeboats: "+ LifeboatsRenting()+"\n"
-                +"Maximal flow of cargo ships: "+MAXCARGOSFLOW+"\n";
+                +"Maximal flow of cargo ships: "+MAX_CARGOS_fLOW+"\n";
     return OpeningMessage;}
     //Funkcja zwracajaca Liste statków typu Cargo i Civil biorących udział w symulacji:
     private static LinkedList<Ship> GenerateShips () {
@@ -71,8 +74,8 @@ public class Day {
     //Funkcja zwracająca liste statków klasy Lifeboat.
     private static LinkedList<Lifeboat> GenerateLifeboats (){
         LinkedList<Lifeboat>List = new LinkedList<Lifeboat>();
-        Lifeboat[] Lifeboats = new Lifeboat[LifeboatsAmount];
-        for (int i=0;i<LifeboatsAmount;i++){
+        Lifeboat[] Lifeboats = new Lifeboat[LIFEBOATS_AMOUNT];
+        for (int i=0;i<LIFEBOATS_AMOUNT;i++){
             Lifeboats[i] = new Lifeboat(DayAmount);
             List.add(Lifeboats[i]);
         }
@@ -115,8 +118,9 @@ public class Day {
     protected void CargosDocking(){
         Random random = new Random();
         int TodaysWaitingCargos = random.nextInt(3) ; //Ta zmienna definiuje ile statków cargo przypłynie w danym dniu (od 0 do 2).
+        WaitingCargos+=TodaysWaitingCargos;
         //warunek1 odnosi się do pozwolenia na płynięcie wydane przez służby, warunek 2 odnosi się do maksymalnej przepustowości portu, 3 warunek odnosi się do maksymalnej pojemności portu.
-        while(this.SailingPermission && this.DailyCargoFlow<MAXCARGOSFLOW && DockedCargosAmount<MAXCARGOSINDOCKS){
+        while(this.SailingPermission && this.DailyCargoFlow<MAX_CARGOS_fLOW && DockedCargosAmount<MAX_CARGOS_IN_DOCKS){
             //Iteracja przechodzi przez wszystkie elementy listy statków znajdujących się na morzu.
             Iterator<Ship> iterator = AllShips.iterator();
             while (iterator.hasNext()){
@@ -146,7 +150,7 @@ public class Day {
             Ship DockedShip = iterator.next();
             //W przypadku kiedy statek jest klasy Cargo:
             if (DockedShip instanceof Cargo) {
-                while (this.DailyCargoFlow < MAXCARGOSFLOW) {//Dodatkowe Ograniczenie spowodowane maksymalnym przepływem statków cargo.
+                while (this.DailyCargoFlow < MAX_CARGOS_fLOW) {//Dodatkowe Ograniczenie spowodowane maksymalnym przepływem statków cargo.
                     Cargo DockedCargo = (Cargo) DockedShip;
                     DockedCargo.ResidenceDays -= 1;//Zmniejszenie czasu pobytu statku o 1 dzień
                     if (DockedCargo.ResidenceDays <= 0) {//Jeśli danemu statkowi upłynie termin pobytu, zachodzą poniższe zmiany:
@@ -172,9 +176,9 @@ public class Day {
 
     protected void CivilsDocking() {
         Random random = new Random();
-        int TodaysHaulingCivils = random.nextInt(MAXDAILYHAULINGS - MINDAILYHAULING) + MINDAILYHAULING;//Wygenerowana liczba statków klasy Civil przybijająca tego dnia do portu
-        //Warunek 1 odnosi się do pozwolenia na płynięcie wydane przez służby, warunek 2 odnosi się do maksymalnej ilości statków klasy Civil mogących przebywać w porcie.
-        while (this.SailingPermission && DockedCivilsAmount < MAXCIVILSINDOCKS && TodaysHaulingCivils > 0) {
+        int TodaysHaulingCivils = random.nextInt(MAX_DAILY_HAULING - MIN_DAILY_HAULINGS) + MIN_DAILY_HAULINGS;//Wygenerowana liczba statków klasy Civil przybijająca tego dnia do portu (MIN_DAILY_HAULINGS,MAX_DAILY_HAULINGS)
+        //Warunek 1 odnosi się do pozwolenia na płynięcie wydane przez służby, warunek 2 odnosi się do maksymalnej ilości statków klasy Civil mogących przebywać w porcie, 3 warunek odlicza liczbę nowych statków przypadajacyh na ten konkretny dzień.
+        while (this.SailingPermission && DockedCivilsAmount <= MAX_CIVILS_IN_DOCKS  && TodaysHaulingCivils > 0) {
             Iterator<Ship> iterator = AllShips.iterator();
             while (iterator.hasNext()) {
                 Ship SomeShip = iterator.next();
@@ -185,6 +189,7 @@ public class Day {
                     DockedShips.add(SomeShip);//Dodanie statku do listy zadokowanych statków.
                     this.DailyIncome += HaulingCivil.Rent();//Doliczenie do dziennego przychodu kosztu najmu tego statku.
                     DockedCivilsAmount += 1;//Zarejestrowanie statku w spisie wszystkich statków typu Civil.
+                    TodaysHaulingCivils -= 1;
                     iterator.remove();//Usunięcie elementu z listy statków znajdujących się na morzu.
                     break;
                 }
@@ -217,7 +222,5 @@ public class Day {
         DayCount+=1;
         PassingDayActions();
         TotalIncome+=this.DailyIncome;
-        DayCount++;
     }
-
 }
