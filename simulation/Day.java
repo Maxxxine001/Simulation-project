@@ -6,7 +6,6 @@ import simulation.ships.Ship;
 import simulation.ships.Civil;
 import java.util.LinkedList;
 import java.util.Iterator;
-import java.io.PrintWriter;
 
 public class Day {
 
@@ -40,12 +39,12 @@ public class Day {
     protected int DailyDockedCivils = 0;//(może nie potrzebne?)Zadokowane tego dnia statki typu Civil.
     protected int DailyDockedCargos = 0;//Zadokowane tego dnia statki typu Cargo.
     protected boolean SailingPermission = true; //Port zamknięty lub otwarty dla ruchu morskiego.
-    protected String Log = GenerateFirstLog(); // Komunikat startowy, rozszerzany o następne dni w trakcie trwania symulacji.
+    public static String Log = GenerateFirstLog(); // Komunikat startowy, rozszerzany o następne dni w trakcie trwania symulacji.
 
     //sekcja funkcji
 
     //Funkcja generująca pierwszy komunikat zapisany w dzienniku.
-    private String GenerateFirstLog(){
+    private static String GenerateFirstLog(){
         String OpeningMessage="Simulation Specifications:\n"
                 +"Time duration: "+DayAmount+"days\n"
                 +"Lifeboats rented: "+LifeboatsAmount+"\n"
@@ -204,13 +203,6 @@ public class Day {
         else{
             Log+="This day was unfortunate for the sailors.\n" +
                     "The accident caused closing the sea traffic and generated cost total of: "+"\n";
-        }
-    }
-    public static void SaveToTxt(String data){
-        try {
-            PrintWriter out = new PrintWriter("Logs.txt");
-        } catch(Exception exception) {
-            System.out.println("Zapis do pliku nie powdiódł się.");
         }
     }
     protected void PassingDayActions(){
