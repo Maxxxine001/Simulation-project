@@ -1,10 +1,13 @@
 package simulation;
 import java.io.PrintWriter;
-import java.io.DataInput;
 import java.util.Scanner;
 import java.util.InputMismatchException;
 
 public class Simulation {
+
+    //Sekcja metod:
+
+    //Metoda pozyskująca od użytkownika liczbę dni, potrzebną do rozpoczęcia symulacji.
     public static int DayInput() {
         Scanner scanner = new Scanner(System.in);
         int liczba;
@@ -19,7 +22,7 @@ public class Simulation {
 
                     break;
                 } else if (liczba >= 365){
-                    System.out.println("Wprowadzona liczba zostanie zamieniona na maksymalną dostępną wartość");
+                    System.out.println("Wprowadzona liczba zostanie zamieniona na maksymalną dostępną wartość (365).");
                     liczba = 365;
                     break;
                 }
@@ -30,6 +33,7 @@ public class Simulation {
         }
         return liczba;
     }
+    //Metoda odpowiedzialna za zapis dzienników w postaci pojedyńczego stringu, wygenerowanych przez klasę Day do pliku tekstowego.
     private static void SaveToTxt(String data){
         try {
             PrintWriter out = new PrintWriter("Logs.txt");
@@ -39,19 +43,25 @@ public class Simulation {
             System.out.println("Zapis do pliku nie powdiódł się.");
         }
     }
-    private static void RunSimulation(int Time){
-        Day.DayAmount = Time;
-        Day[] simulation = new Day[Time];
-        for (int i=0;i<Time;i++){
+    //Metoda generująca tablicę obiektów klasy Day, wykorzystująca domyślny konstruktor w celu symulowania przebiegu kolejnych dni.
+    private static void RunSimulation(){
+        Day[] simulation = new Day[SimulationTime];
+        for (int i=0;i<SimulationTime;i++){
         simulation[i] = new Day();
         }
     }
+    //Metoda zwracająca użytkownikowi Ostateczny komunikat, wraz z wynikiem końcowym wartości odpowiadającej finalnemu przychodowi.
     private static void FinalCommunicate(){
         System.out.println("W ciągu trwania symulacji, port wygenerował łączny przychód "+Day.TotalIncome);
     }
+
+    public static int SimulationTime;//Jedyna zmienna klasy głównej.
+    //Potrzebna przede wszystkim w celu przekazania podanej przez użytkownika informacji odnoszącej się do czasu trwania symulacji do klasy Day.
+
+    //Główna metoda, ciało programu.
     public static void main(String[] args) {
-        int SimulationTime = DayInput();
-        RunSimulation(SimulationTime);
+        SimulationTime = DayInput();
+        RunSimulation();
         SaveToTxt(Day.Log);
         FinalCommunicate();
     }
