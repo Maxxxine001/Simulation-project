@@ -24,5 +24,5 @@ public class Civil extends Ship{
     private static final int MAX_RESIDENCE_TIME = 15;//Maksymalny możliwy czas pobytu statku w porcie.
     private static final int MIN_RESIDENCE_TIME = 7;//Minimalny możliwy czas pobytu statku w porcie przez statek.
     private static final int HAULING_PRICE_PER_SIZE = 4;//Cena za każdą jednostke rozmiaru statku.
-    private static final int RESIDENCE_PRICE_PER_DAY = 85;//Cena za każdy dzień pobytu statku w porcie.
+    private static final int RESIDENCE_PRICE_PER_DAY = 65;//Cena za każdy dzień pobytu statku w porcie.
 }

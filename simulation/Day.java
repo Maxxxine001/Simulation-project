@@ -40,7 +40,7 @@ public class Day {
     //Sekcja zmiennych statycznych
 
     private static int DayCount = 0; //Odliczanie dni.
-    protected static int TotalIncome=-LifeboatsRenting(); //Zmienna zliczająca zyski i straty ze wszystkich dni. Zaczynając od opłat za wynajęcie łodzi.
+    protected static int TotalIncome = LifeboatsRenting(); //Zmienna zliczająca zyski i straty ze wszystkich dni. Zaczynając od opłat za wynajęcie łodzi.
     private static int DockedCargosAmount = 0;//Całkowita liczba zadokowanych statków typu Cargo.
     private static int DockedCivilsAmount = 0;//Całkowita liczba zadokowanych statków typu Civil.
     private static int WaitingCargos = 0;//Liczba statków typu Cargo, oczekujących na wpłynięcie do portu.
@@ -100,9 +100,9 @@ public class Day {
         int cost=0;
         for (Object RentedLifeboat : Lifeboats){
             Lifeboat lifeboat = (Lifeboat) RentedLifeboat;
-            cost+=lifeboat.Rent();
+            cost-=lifeboat.Rent();
         }
-    return -cost;}
+    return cost;}
 
     //Metoda odpowiadająca za występowanie awarii statków Civil:
     private void CivilsAccidentsPossibility(){

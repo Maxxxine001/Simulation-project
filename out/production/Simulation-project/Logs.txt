@@ -1,924 +1,3424 @@
 Właściwości Symulacji:
-Czas trwania: 100 dni
+Czas trwania: 365 dni
 Wynajęte łodzie ratunkowe: 4
-Całkowity koszt najmu łodzi ratunkowych: 40400
+Całkowity koszt najmu łodzi ratunkowych: 439200
 Maksymalna przepustowość portu statków towarowych w ciągu dnia: 3
 Ilość miejsc do wynajęcia dla statków cywilnych: 95
 Ilość miejsc w dokach, przeznaczonych dla statków towarowych: 8
 
 Day 1.
-Dzienny przychód: 1734
-Zwodowane statki cywilne: 6
-Statki towarowe, które przybyły do portu: 0
-Ilość statków cywilnych przebywających w porcie: 6
-Ilość statków towarowych przebywających w dokach: 0
+Dzienny przychód: 15362
+Zwodowane statki cywilne: 5
+Statki towarowe, które przybyły do portu: 1
+Ilość statków cywilnych przebywających w porcie: 5
+Ilość statków towarowych przebywających w dokach: 1
 Statki cywilne które opóściły port: 0
 Statki towarowe które wypłynęły w morze: 0
 Statki towarowe oczekujące na wejście do portu: 0
 
 Day 2.
-Dzienny przychód: 25731
-Zwodowane statki cywilne: 7
-Statki towarowe, które przybyły do portu: 1
-Ilość statków cywilnych przebywających w porcie: 13
-Ilość statków towarowych przebywających w dokach: 1
+Dzienny przychód: 9324
+Zwodowane statki cywilne: 4
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 9
+Ilość statków towarowych przebywających w dokach: 3
 Statki cywilne które opóściły port: 0
 Statki towarowe które wypłynęły w morze: 0
 Statki towarowe oczekujące na wejście do portu: 0
 
 Day 3.
-Dzienny przychód: 20035
-Zwodowane statki cywilne: 4
-Statki towarowe, które przybyły do portu: 1
-Ilość statków cywilnych przebywających w porcie: 17
-Ilość statków towarowych przebywających w dokach: 2
-Statki cywilne które opóściły port: 0
-Statki towarowe które wypłynęły w morze: 0
-Statki towarowe oczekujące na wejście do portu: 0
+Ten dzień nie był szczęśliwy dla marynarzy...
+W związku z zajściem poważnego wypadku na morzu, port został zamknięty, a podjęcie akcji ratunkowej przez służby kosztowało port: -125
 
 Day 4.
-Dzienny przychód: 32028
-Zwodowane statki cywilne: 5
+Dzienny przychód: 10112
+Zwodowane statki cywilne: 4
+Statki towarowe, które przybyły do portu: 1
+Ilość statków cywilnych przebywających w porcie: 13
+Ilość statków towarowych przebywających w dokach: 2
+Statki cywilne które opóściły port: 0
+Statki towarowe które wypłynęły w morze: 2
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 5.
+Dzienny przychód: 20253
+Zwodowane statki cywilne: 4
 Statki towarowe, które przybyły do portu: 2
-Ilość statków cywilnych przebywających w porcie: 22
+Ilość statków cywilnych przebywających w porcie: 17
 Ilość statków towarowych przebywających w dokach: 3
 Statki cywilne które opóściły port: 0
 Statki towarowe które wypłynęły w morze: 1
 Statki towarowe oczekujące na wejście do portu: 0
 
-Day 5.
-Dzienny przychód: 1281
-Zwodowane statki cywilne: 4
-Statki towarowe, które przybyły do portu: 0
-Ilość statków cywilnych przebywających w porcie: 26
-Ilość statków towarowych przebywających w dokach: 1
-Statki cywilne które opóściły port: 0
-Statki towarowe które wypłynęły w morze: 2
-Statki towarowe oczekujące na wejście do portu: 0
-
 Day 6.
-Dzienny przychód: 20765
-Zwodowane statki cywilne: 6
-Statki towarowe, które przybyły do portu: 2
-Ilość statków cywilnych przebywających w porcie: 32
+Dzienny przychód: 2311
+Zwodowane statki cywilne: 3
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 20
 Ilość statków towarowych przebywających w dokach: 2
 Statki cywilne które opóściły port: 0
 Statki towarowe które wypłynęły w morze: 1
 Statki towarowe oczekujące na wejście do portu: 0
 
 Day 7.
-This day was unfortunate for the sailors.
-The accident caused closing the sea traffic and generated total cost of: -125
+Dzienny przychód: 17483
+Zwodowane statki cywilne: 6
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 26
+Ilość statków towarowych przebywających w dokach: 3
+Statki cywilne które opóściły port: 0
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 0
 
 Day 8.
-Dzienny przychód: 33383
-Zwodowane statki cywilne: 4
-Statki towarowe, które przybyły do portu: 1
-Ilość statków cywilnych przebywających w porcie: 36
+Dzienny przychód: 5730
+Zwodowane statki cywilne: 7
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 33
 Ilość statków towarowych przebywających w dokach: 1
 Statki cywilne które opóściły port: 0
 Statki towarowe które wypłynęły w morze: 2
 Statki towarowe oczekujące na wejście do portu: 0
 
 Day 9.
-This day was unfortunate for the sailors.
-The accident caused closing the sea traffic and generated total cost of: -125
+Dzienny przychód: 4211
+Zwodowane statki cywilne: 5
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 37
+Ilość statków towarowych przebywających w dokach: 0
+Statki cywilne które opóściły port: 1
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 0
 
 Day 10.
-Dzienny przychód: 85767
+Dzienny przychód: 4043
 Zwodowane statki cywilne: 5
-Statki towarowe, które przybyły do portu: 3
-Ilość statków cywilnych przebywających w porcie: 41
-Ilość statków towarowych przebywających w dokach: 4
-Statki cywilne które opóściły port: 0
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 40
+Ilość statków towarowych przebywających w dokach: 0
+Statki cywilne które opóściły port: 2
 Statki towarowe które wypłynęły w morze: 0
 Statki towarowe oczekujące na wejście do portu: 0
 
 Day 11.
-Dzienny przychód: 33231
+Dzienny przychód: 12050
 Zwodowane statki cywilne: 5
 Statki towarowe, które przybyły do portu: 1
-Ilość statków cywilnych przebywających w porcie: 45
-Ilość statków towarowych przebywających w dokach: 5
+Ilość statków cywilnych przebywających w porcie: 44
+Ilość statków towarowych przebywających w dokach: 1
 Statki cywilne które opóściły port: 1
 Statki towarowe które wypłynęły w morze: 0
 Statki towarowe oczekujące na wejście do portu: 0
 
 Day 12.
-Dzienny przychód: 2163
-Zwodowane statki cywilne: 6
+Dzienny przychód: 2408
+Zwodowane statki cywilne: 3
 Statki towarowe, które przybyły do portu: 0
-Ilość statków cywilnych przebywających w porcie: 50
-Ilość statków towarowych przebywających w dokach: 4
-Statki cywilne które opóściły port: 1
-Statki towarowe które wypłynęły w morze: 1
+Ilość statków cywilnych przebywających w porcie: 44
+Ilość statków towarowych przebywających w dokach: 1
+Statki cywilne które opóściły port: 3
+Statki towarowe które wypłynęły w morze: 0
 Statki towarowe oczekujące na wejście do portu: 0
 
 Day 13.
-Dzienny przychód: 1638
+Dzienny przychód: 10941
 Zwodowane statki cywilne: 4
-Statki towarowe, które przybyły do portu: 0
-Ilość statków cywilnych przebywających w porcie: 53
+Statki towarowe, które przybyły do portu: 1
+Ilość statków cywilnych przebywających w porcie: 47
 Ilość statków towarowych przebywających w dokach: 1
 Statki cywilne które opóściły port: 1
-Statki towarowe które wypłynęły w morze: 3
-Statki towarowe oczekujące na wejście do portu: 1
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 0
 
 Day 14.
-This day was unfortunate for the sailors.
-The accident caused closing the sea traffic and generated total cost of: -125
+Dzienny przychód: 13167
+Zwodowane statki cywilne: 7
+Statki towarowe, które przybyły do portu: 1
+Ilość statków cywilnych przebywających w porcie: 49
+Ilość statków towarowych przebywających w dokach: 2
+Statki cywilne które opóściły port: 5
+Statki towarowe które wypłynęły w morze: 0
+Statki towarowe oczekujące na wejście do portu: 0
 
 Day 15.
-Dzienny przychód: 37776
-Zwodowane statki cywilne: 6
-Statki towarowe, które przybyły do portu: 2
-Ilość statków cywilnych przebywających w porcie: 58
-Ilość statków towarowych przebywających w dokach: 2
-Statki cywilne które opóściły port: 1
+Dzienny przychód: 3562
+Zwodowane statki cywilne: 4
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 49
+Ilość statków towarowych przebywających w dokach: 1
+Statki cywilne które opóściły port: 4
 Statki towarowe które wypłynęły w morze: 1
-Statki towarowe oczekujące na wejście do portu: 1
+Statki towarowe oczekujące na wejście do portu: 0
 
 Day 16.
-Dzienny przychód: 73391
-Zwodowane statki cywilne: 7
-Statki towarowe, które przybyły do portu: 3
-Ilość statków cywilnych przebywających w porcie: 61
-Ilość statków towarowych przebywających w dokach: 5
-Statki cywilne które opóściły port: 4
-Statki towarowe które wypłynęły w morze: 0
+Dzienny przychód: 17281
+Zwodowane statki cywilne: 5
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 51
+Ilość statków towarowych przebywających w dokach: 2
+Statki cywilne które opóściły port: 3
+Statki towarowe które wypłynęły w morze: 1
 Statki towarowe oczekujące na wejście do portu: 0
 
 Day 17.
-Dzienny przychód: 20187
-Zwodowane statki cywilne: 7
-Statki towarowe, które przybyły do portu: 1
-Ilość statków cywilnych przebywających w porcie: 67
+Dzienny przychód: 17852
+Zwodowane statki cywilne: 4
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 51
 Ilość statków towarowych przebywających w dokach: 4
-Statki cywilne które opóściły port: 1
-Statki towarowe które wypłynęły w morze: 2
+Statki cywilne które opóściły port: 4
+Statki towarowe które wypłynęły w morze: 0
 Statki towarowe oczekujące na wejście do portu: 0
 
 Day 18.
-Dzienny przychód: 19288
-Zwodowane statki cywilne: 4
-Statki towarowe, które przybyły do portu: 1
-Ilość statków cywilnych przebywających w porcie: 68
-Ilość statków towarowych przebywających w dokach: 3
-Statki cywilne które opóściły port: 3
-Statki towarowe które wypłynęły w morze: 2
-Statki towarowe oczekujące na wejście do portu: 1
+Dzienny przychód: 4180
+Zwodowane statki cywilne: 5
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 50
+Ilość statków towarowych przebywających w dokach: 1
+Statki cywilne które opóściły port: 6
+Statki towarowe które wypłynęły w morze: 3
+Statki towarowe oczekujące na wejście do portu: 2
 
 Day 19.
-This day was unfortunate for the sailors.
-The accident caused closing the sea traffic and generated total cost of: -800
-
-Day 20.
-Dzienny przychód: 30785
-Zwodowane statki cywilne: 5
-Statki towarowe, które przybyły do portu: 1
-Ilość statków cywilnych przebywających w porcie: 71
-Ilość statków towarowych przebywających w dokach: 2
-Statki cywilne które opóściły port: 2
-Statki towarowe które wypłynęły w morze: 2
-Statki towarowe oczekujące na wejście do portu: 4
-
-Day 21.
-Dzienny przychód: 55492
-Zwodowane statki cywilne: 4
-Statki towarowe, które przybyły do portu: 2
-Ilość statków cywilnych przebywających w porcie: 69
-Ilość statków towarowych przebywających w dokach: 3
-Statki cywilne które opóściły port: 6
-Statki towarowe które wypłynęły w morze: 1
-Statki towarowe oczekujące na wejście do portu: 4
-
-Day 22.
-Dzienny przychód: 65020
+Dzienny przychód: 37015
 Zwodowane statki cywilne: 7
 Statki towarowe, które przybyły do portu: 3
-Ilość statków cywilnych przebywających w porcie: 71
-Ilość statków towarowych przebywających w dokach: 6
-Statki cywilne które opóściły port: 5
-Statki towarowe które wypłynęły w morze: 0
-Statki towarowe oczekujące na wejście do portu: 1
-
-Day 23.
-Dzienny przychód: 26119
-Zwodowane statki cywilne: 7
-Statki towarowe, które przybyły do portu: 1
-Ilość statków cywilnych przebywających w porcie: 75
-Ilość statków towarowych przebywających w dokach: 5
+Ilość statków cywilnych przebywających w porcie: 54
+Ilość statków towarowych przebywających w dokach: 4
 Statki cywilne które opóściły port: 3
-Statki towarowe które wypłynęły w morze: 2
+Statki towarowe które wypłynęły w morze: 0
 Statki towarowe oczekujące na wejście do portu: 0
 
-Day 24.
-Dzienny przychód: 24811
-Zwodowane statki cywilne: 7
-Statki towarowe, które przybyły do portu: 1
-Ilość statków cywilnych przebywających w porcie: 77
+Day 20.
+Dzienny przychód: 20037
+Zwodowane statki cywilne: 4
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 51
+Ilość statków towarowych przebywających w dokach: 5
+Statki cywilne które opóściły port: 7
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 21.
+Dzienny przychód: 2820
+Zwodowane statki cywilne: 3
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 50
 Ilość statków towarowych przebywających w dokach: 4
+Statki cywilne które opóściły port: 4
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 22.
+Dzienny przychód: 2542
+Zwodowane statki cywilne: 3
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 48
+Ilość statków towarowych przebywających w dokach: 1
 Statki cywilne które opóściły port: 5
-Statki towarowe które wypłynęły w morze: 2
+Statki towarowe które wypłynęły w morze: 3
+Statki towarowe oczekujące na wejście do portu: 2
+
+Day 23.
+Dzienny przychód: 19386
+Zwodowane statki cywilne: 7
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 52
+Ilość statków towarowych przebywających w dokach: 2
+Statki cywilne które opóściły port: 3
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 2
+
+Day 24.
+Dzienny przychód: 22163
+Zwodowane statki cywilne: 7
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 57
+Ilość statków towarowych przebywających w dokach: 3
+Statki cywilne które opóściły port: 2
+Statki towarowe które wypłynęły w morze: 1
 Statki towarowe oczekujące na wejście do portu: 1
 
 Day 25.
-Dzienny przychód: 2538
-Zwodowane statki cywilne: 7
-Statki towarowe, które przybyły do portu: 0
-Ilość statków cywilnych przebywających w porcie: 82
-Ilość statków towarowych przebywających w dokach: 1
-Statki cywilne które opóściły port: 2
-Statki towarowe które wypłynęły w morze: 3
-Statki towarowe oczekujące na wejście do portu: 3
+Dzienny przychód: 19937
+Zwodowane statki cywilne: 3
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 52
+Ilość statków towarowych przebywających w dokach: 4
+Statki cywilne które opóściły port: 8
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 0
 
 Day 26.
-Dzienny przychód: 34569
-Zwodowane statki cywilne: 6
-Statki towarowe, które przybyły do portu: 2
-Ilość statków cywilnych przebywających w porcie: 87
-Ilość statków towarowych przebywających w dokach: 2
-Statki cywilne które opóściły port: 1
-Statki towarowe które wypłynęły w morze: 1
-Statki towarowe oczekujące na wejście do portu: 3
+Dzienny przychód: 15101
+Zwodowane statki cywilne: 7
+Statki towarowe, które przybyły do portu: 1
+Ilość statków cywilnych przebywających w porcie: 49
+Ilość statków towarowych przebywających w dokach: 3
+Statki cywilne które opóściły port: 10
+Statki towarowe które wypłynęły w morze: 2
+Statki towarowe oczekujące na wejście do portu: 0
 
 Day 27.
-Dzienny przychód: 37684
-Zwodowane statki cywilne: 4
-Statki towarowe, które przybyły do portu: 2
-Ilość statków cywilnych przebywających w porcie: 86
-Ilość statków towarowych przebywających w dokach: 3
-Statki cywilne które opóściły port: 5
-Statki towarowe które wypłynęły w morze: 1
-Statki towarowe oczekujące na wejście do portu: 3
-
-Day 28.
-Dzienny przychód: 28824
-Zwodowane statki cywilne: 4
-Statki towarowe, które przybyły do portu: 1
-Ilość statków cywilnych przebywających w porcie: 87
+Dzienny przychód: 5028
+Zwodowane statki cywilne: 7
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 53
 Ilość statków towarowych przebywających w dokach: 2
 Statki cywilne które opóściły port: 3
-Statki towarowe które wypłynęły w morze: 2
-Statki towarowe oczekujące na wejście do portu: 2
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 28.
+Dzienny przychód: 12171
+Zwodowane statki cywilne: 5
+Statki towarowe, które przybyły do portu: 1
+Ilość statków cywilnych przebywających w porcie: 52
+Ilość statków towarowych przebywających w dokach: 2
+Statki cywilne które opóściły port: 6
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 0
 
 Day 29.
-This day was unfortunate for the sailors.
-The accident caused closing the sea traffic and generated total cost of: -125
+Dzienny przychód: 21368
+Zwodowane statki cywilne: 4
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 55
+Ilość statków towarowych przebywających w dokach: 3
+Statki cywilne które opóściły port: 1
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 0
 
 Day 30.
-Dzienny przychód: 38759
-Zwodowane statki cywilne: 6
+Dzienny przychód: 13657
+Zwodowane statki cywilne: 7
 Statki towarowe, które przybyły do portu: 2
-Ilość statków cywilnych przebywających w porcie: 88
+Ilość statków cywilnych przebywających w porcie: 59
 Ilość statków towarowych przebywających w dokach: 4
-Statki cywilne które opóściły port: 5
-Statki towarowe które wypłynęły w morze: 0
+Statki cywilne które opóściły port: 3
+Statki towarowe które wypłynęły w morze: 1
 Statki towarowe oczekujące na wejście do portu: 0
 
 Day 31.
-Dzienny przychód: 37635
-Zwodowane statki cywilne: 5
-Statki towarowe, które przybyły do portu: 2
-Ilość statków cywilnych przebywających w porcie: 88
-Ilość statków towarowych przebywających w dokach: 5
+Dzienny przychód: 6207
+Zwodowane statki cywilne: 7
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 61
+Ilość statków towarowych przebywających w dokach: 1
 Statki cywilne które opóściły port: 5
+Statki towarowe które wypłynęły w morze: 3
+Statki towarowe oczekujące na wejście do portu: 1
+
+Day 32.
+Dzienny przychód: 15870
+Zwodowane statki cywilne: 6
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 60
+Ilość statków towarowych przebywających w dokach: 2
+Statki cywilne które opóściły port: 7
 Statki towarowe które wypłynęły w morze: 1
 Statki towarowe oczekujące na wejście do portu: 0
 
-Day 32.
-Dzienny przychód: 1506
-Zwodowane statki cywilne: 4
-Statki towarowe, które przybyły do portu: 0
-Ilość statków cywilnych przebywających w porcie: 87
-Ilość statków towarowych przebywających w dokach: 2
-Statki cywilne które opóściły port: 5
-Statki towarowe które wypłynęły w morze: 3
-Statki towarowe oczekujące na wejście do portu: 0
-
 Day 33.
-Dzienny przychód: 21812
-Zwodowane statki cywilne: 6
-Statki towarowe, które przybyły do portu: 1
-Ilość statków cywilnych przebywających w porcie: 88
-Ilość statków towarowych przebywających w dokach: 1
-Statki cywilne które opóściły port: 5
-Statki towarowe które wypłynęły w morze: 2
+Dzienny przychód: 17130
+Zwodowane statki cywilne: 5
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 61
+Ilość statków towarowych przebywających w dokach: 3
+Statki cywilne które opóściły port: 4
+Statki towarowe które wypłynęły w morze: 1
 Statki towarowe oczekujące na wejście do portu: 0
 
 Day 34.
-Dzienny przychód: 47967
-Zwodowane statki cywilne: 6
-Statki towarowe, które przybyły do portu: 2
-Ilość statków cywilnych przebywających w porcie: 91
-Ilość statków towarowych przebywających w dokach: 3
+Dzienny przychód: 11212
+Zwodowane statki cywilne: 7
+Statki towarowe, które przybyły do portu: 1
+Ilość statków cywilnych przebywających w porcie: 65
+Ilość statków towarowych przebywających w dokach: 2
 Statki cywilne które opóściły port: 3
-Statki towarowe które wypłynęły w morze: 0
-Statki towarowe oczekujące na wejście do portu: 0
+Statki towarowe które wypłynęły w morze: 2
+Statki towarowe oczekujące na wejście do portu: 1
 
 Day 35.
-Dzienny przychód: 33542
-Zwodowane statki cywilne: 7
+Dzienny przychód: 21476
+Zwodowane statki cywilne: 4
 Statki towarowe, które przybyły do portu: 2
-Ilość statków cywilnych przebywających w porcie: 94
-Ilość statków towarowych przebywających w dokach: 4
-Statki cywilne które opóściły port: 4
+Ilość statków cywilnych przebywających w porcie: 64
+Ilość statków towarowych przebywających w dokach: 3
+Statki cywilne które opóściły port: 5
 Statki towarowe które wypłynęły w morze: 1
 Statki towarowe oczekujące na wejście do portu: 0
 
 Day 36.
-Dzienny przychód: 2109
+Dzienny przychód: 5102
 Zwodowane statki cywilne: 6
 Statki towarowe, które przybyły do portu: 0
-Ilość statków cywilnych przebywających w porcie: 91
+Ilość statków cywilnych przebywających w porcie: 66
 Ilość statków towarowych przebywających w dokach: 2
-Statki cywilne które opóściły port: 9
-Statki towarowe które wypłynęły w morze: 2
+Statki cywilne które opóściły port: 4
+Statki towarowe które wypłynęły w morze: 1
 Statki towarowe oczekujące na wejście do portu: 0
 
 Day 37.
-Dzienny przychód: 2544
+Dzienny przychód: 14492
 Zwodowane statki cywilne: 7
-Statki towarowe, które przybyły do portu: 0
-Ilość statków cywilnych przebywających w porcie: 92
-Ilość statków towarowych przebywających w dokach: 0
-Statki cywilne które opóściły port: 6
-Statki towarowe które wypłynęły w morze: 2
+Statki towarowe, które przybyły do portu: 1
+Ilość statków cywilnych przebywających w porcie: 66
+Ilość statków towarowych przebywających w dokach: 2
+Statki cywilne które opóściły port: 7
+Statki towarowe które wypłynęły w morze: 1
 Statki towarowe oczekujące na wejście do portu: 0
 
 Day 38.
-Dzienny przychód: 43203
-Zwodowane statki cywilne: 4
+Dzienny przychód: 16195
+Zwodowane statki cywilne: 5
 Statki towarowe, które przybyły do portu: 2
-Ilość statków cywilnych przebywających w porcie: 94
-Ilość statków towarowych przebywających w dokach: 2
-Statki cywilne które opóściły port: 2
-Statki towarowe które wypłynęły w morze: 0
+Ilość statków cywilnych przebywających w porcie: 63
+Ilość statków towarowych przebywających w dokach: 3
+Statki cywilne które opóściły port: 8
+Statki towarowe które wypłynęły w morze: 1
 Statki towarowe oczekujące na wejście do portu: 0
 
 Day 39.
-Dzienny przychód: 19916
+Dzienny przychód: 16495
 Zwodowane statki cywilne: 6
-Statki towarowe, które przybyły do portu: 1
-Ilość statków cywilnych przebywających w porcie: 91
-Ilość statków towarowych przebywających w dokach: 2
-Statki cywilne które opóściły port: 9
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 59
+Ilość statków towarowych przebywających w dokach: 4
+Statki cywilne które opóściły port: 10
 Statki towarowe które wypłynęły w morze: 1
 Statki towarowe oczekujące na wejście do portu: 0
 
 Day 40.
-Dzienny przychód: 14308
-Zwodowane statki cywilne: 7
-Statki towarowe, które przybyły do portu: 1
-Ilość statków cywilnych przebywających w porcie: 94
-Ilość statków towarowych przebywających w dokach: 3
-Statki cywilne które opóściły port: 4
-Statki towarowe które wypłynęły w morze: 0
+Dzienny przychód: 3111
+Zwodowane statki cywilne: 4
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 57
+Ilość statków towarowych przebywających w dokach: 1
+Statki cywilne które opóściły port: 6
+Statki towarowe które wypłynęły w morze: 3
 Statki towarowe oczekujące na wejście do portu: 0
 
 Day 41.
-Dzienny przychód: 2430
-Zwodowane statki cywilne: 6
+Dzienny przychód: 4391
+Zwodowane statki cywilne: 5
 Statki towarowe, które przybyły do portu: 0
-Ilość statków cywilnych przebywających w porcie: 95
+Ilość statków cywilnych przebywających w porcie: 56
 Ilość statków towarowych przebywających w dokach: 0
-Statki cywilne które opóściły port: 5
-Statki towarowe które wypłynęły w morze: 3
-Statki towarowe oczekujące na wejście do portu: 2
+Statki cywilne które opóściły port: 6
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 0
 
 Day 42.
-Dzienny przychód: 33160
+Dzienny przychód: 17506
 Zwodowane statki cywilne: 5
 Statki towarowe, które przybyły do portu: 2
-Ilość statków cywilnych przebywających w porcie: 95
+Ilość statków cywilnych przebywających w porcie: 57
 Ilość statków towarowych przebywających w dokach: 2
-Statki cywilne które opóściły port: 5
+Statki cywilne które opóściły port: 4
 Statki towarowe które wypłynęły w morze: 0
 Statki towarowe oczekujące na wejście do portu: 0
 
 Day 43.
-This day was unfortunate for the sailors.
-The accident caused closing the sea traffic and generated total cost of: -125
-
-Day 44.
-This day was unfortunate for the sailors.
-The accident caused closing the sea traffic and generated total cost of: -125
-
-Day 45.
-Dzienny przychód: 31737
-Zwodowane statki cywilne: 3
-Statki towarowe, które przybyły do portu: 2
-Ilość statków cywilnych przebywających w porcie: 95
-Ilość statków towarowych przebywających w dokach: 3
-Statki cywilne które opóściły port: 3
-Statki towarowe które wypłynęły w morze: 1
-Statki towarowe oczekujące na wejście do portu: 1
-
-Day 46.
-Dzienny przychód: 27165
+Dzienny przychód: 14792
 Zwodowane statki cywilne: 6
-Statki towarowe, które przybyły do portu: 1
-Ilość statków cywilnych przebywających w porcie: 94
-Ilość statków towarowych przebywających w dokach: 2
-Statki cywilne które opóściły port: 7
-Statki towarowe które wypłynęły w morze: 2
-Statki towarowe oczekujące na wejście do portu: 1
-
-Day 47.
-Dzienny przychód: 25108
-Zwodowane statki cywilne: 4
-Statki towarowe, które przybyły do portu: 1
-Ilość statków cywilnych przebywających w porcie: 94
-Ilość statków towarowych przebywających w dokach: 2
-Statki cywilne które opóściły port: 4
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 57
+Ilość statków towarowych przebywających w dokach: 3
+Statki cywilne które opóściły port: 6
 Statki towarowe które wypłynęły w morze: 1
 Statki towarowe oczekujące na wejście do portu: 0
 
-Day 48.
-Dzienny przychód: 2124
-Zwodowane statki cywilne: 6
+Day 44.
+Dzienny przychód: 2439
+Zwodowane statki cywilne: 3
 Statki towarowe, które przybyły do portu: 0
-Ilość statków cywilnych przebywających w porcie: 94
-Ilość statków towarowych przebywających w dokach: 2
-Statki cywilne które opóściły port: 6
+Ilość statków cywilnych przebywających w porcie: 51
+Ilość statków towarowych przebywających w dokach: 1
+Statki cywilne które opóściły port: 9
+Statki towarowe które wypłynęły w morze: 2
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 45.
+Dzienny przychód: 13412
+Zwodowane statki cywilne: 5
+Statki towarowe, które przybyły do portu: 1
+Ilość statków cywilnych przebywających w porcie: 49
+Ilość statków towarowych przebywających w dokach: 1
+Statki cywilne które opóściły port: 7
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 46.
+Ten dzień nie był szczęśliwy dla marynarzy...
+W związku z zajściem poważnego wypadku na morzu, port został zamknięty, a podjęcie akcji ratunkowej przez służby kosztowało port: -125
+
+Day 47.
+Dzienny przychód: 23112
+Zwodowane statki cywilne: 4
+Statki towarowe, które przybyły do portu: 3
+Ilość statków cywilnych przebywających w porcie: 51
+Ilość statków towarowych przebywających w dokach: 4
+Statki cywilne które opóściły port: 2
 Statki towarowe które wypłynęły w morze: 0
 Statki towarowe oczekujące na wejście do portu: 0
 
-Day 49.
-Dzienny przychód: 27671
-Zwodowane statki cywilne: 5
+Day 48.
+Dzienny przychód: 11505
+Zwodowane statki cywilne: 6
 Statki towarowe, które przybyły do portu: 1
-Ilość statków cywilnych przebywających w porcie: 95
-Ilość statków towarowych przebywających w dokach: 1
-Statki cywilne które opóściły port: 4
+Ilość statków cywilnych przebywających w porcie: 50
+Ilość statków towarowych przebywających w dokach: 3
+Statki cywilne które opóściły port: 7
+Statki towarowe które wypłynęły w morze: 2
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 49.
+Dzienny przychód: 14315
+Zwodowane statki cywilne: 4
+Statki towarowe, które przybyły do portu: 1
+Ilość statków cywilnych przebywających w porcie: 49
+Ilość statków towarowych przebywających w dokach: 2
+Statki cywilne które opóściły port: 5
 Statki towarowe które wypłynęły w morze: 2
 Statki towarowe oczekujące na wejście do portu: 1
 
 Day 50.
-Dzienny przychód: 22750
-Zwodowane statki cywilne: 7
-Statki towarowe, które przybyły do portu: 1
-Ilość statków cywilnych przebywających w porcie: 93
-Ilość statków towarowych przebywających w dokach: 2
-Statki cywilne które opóściły port: 9
-Statki towarowe które wypłynęły w morze: 0
-Statki towarowe oczekujące na wejście do portu: 0
+Dzienny przychód: 13620
+Zwodowane statki cywilne: 5
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 51
+Ilość statków towarowych przebywających w dokach: 3
+Statki cywilne które opóściły port: 3
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 1
 
 Day 51.
-Dzienny przychód: 22163
-Zwodowane statki cywilne: 5
-Statki towarowe, które przybyły do portu: 2
-Ilość statków cywilnych przebywających w porcie: 90
-Ilość statków towarowych przebywających w dokach: 4
-Statki cywilne które opóściły port: 8
-Statki towarowe które wypłynęły w morze: 0
-Statki towarowe oczekujące na wejście do portu: 0
+Ten dzień nie był szczęśliwy dla marynarzy...
+W związku z zajściem poważnego wypadku na morzu, port został zamknięty, a podjęcie akcji ratunkowej przez służby kosztowało port: -125
 
 Day 52.
-Dzienny przychód: 2688
+Dzienny przychód: 16161
 Zwodowane statki cywilne: 7
-Statki towarowe, które przybyły do portu: 0
-Ilość statków cywilnych przebywających w porcie: 94
-Ilość statków towarowych przebywających w dokach: 1
-Statki cywilne które opóściły port: 3
-Statki towarowe które wypłynęły w morze: 3
-Statki towarowe oczekujące na wejście do portu: 2
+Statki towarowe, które przybyły do portu: 1
+Ilość statków cywilnych przebywających w porcie: 53
+Ilość statków towarowych przebywających w dokach: 2
+Statki cywilne które opóściły port: 5
+Statki towarowe które wypłynęły w morze: 2
+Statki towarowe oczekujące na wejście do portu: 3
 
 Day 53.
-Dzienny przychód: 34743
-Zwodowane statki cywilne: 5
+Dzienny przychód: 17279
+Zwodowane statki cywilne: 3
 Statki towarowe, które przybyły do portu: 2
-Ilość statków cywilnych przebywających w porcie: 95
-Ilość statków towarowych przebywających w dokach: 2
+Ilość statków cywilnych przebywających w porcie: 52
+Ilość statków towarowych przebywających w dokach: 3
 Statki cywilne które opóściły port: 4
 Statki towarowe które wypłynęły w morze: 1
-Statki towarowe oczekujące na wejście do portu: 0
+Statki towarowe oczekujące na wejście do portu: 3
 
 Day 54.
-Dzienny przychód: 22822
-Zwodowane statki cywilne: 4
-Statki towarowe, które przybyły do portu: 1
-Ilość statków cywilnych przebywających w porcie: 93
-Ilość statków towarowych przebywających w dokach: 2
-Statki cywilne które opóściły port: 6
+Dzienny przychód: 20442
+Zwodowane statki cywilne: 6
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 53
+Ilość statków towarowych przebywających w dokach: 4
+Statki cywilne które opóściły port: 5
 Statki towarowe które wypłynęły w morze: 1
-Statki towarowe oczekujące na wejście do portu: 0
+Statki towarowe oczekujące na wejście do portu: 1
 
 Day 55.
-Dzienny przychód: 33141
-Zwodowane statki cywilne: 7
+Dzienny przychód: 15039
+Zwodowane statki cywilne: 5
 Statki towarowe, które przybyły do portu: 1
-Ilość statków cywilnych przebywających w porcie: 93
-Ilość statków towarowych przebywających w dokach: 2
-Statki cywilne które opóściły port: 7
-Statki towarowe które wypłynęły w morze: 1
+Ilość statków cywilnych przebywających w porcie: 55
+Ilość statków towarowych przebywających w dokach: 3
+Statki cywilne które opóściły port: 3
+Statki towarowe które wypłynęły w morze: 2
 Statki towarowe oczekujące na wejście do portu: 0
 
 Day 56.
-Dzienny przychód: 21109
-Zwodowane statki cywilne: 5
-Statki towarowe, które przybyły do portu: 1
-Ilość statków cywilnych przebywających w porcie: 93
-Ilość statków towarowych przebywających w dokach: 2
+Ten dzień nie był szczęśliwy dla marynarzy...
+W związku z zajściem poważnego wypadku na morzu, port został zamknięty, a podjęcie akcji ratunkowej przez służby kosztowało port: -125
+
+Day 57.
+Dzienny przychód: 20685
+Zwodowane statki cywilne: 7
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 57
+Ilość statków towarowych przebywających w dokach: 4
 Statki cywilne które opóściły port: 5
 Statki towarowe które wypłynęły w morze: 1
 Statki towarowe oczekujące na wejście do portu: 0
 
-Day 57.
-This day was unfortunate for the sailors.
-The accident caused closing the sea traffic and generated total cost of: -125
-
 Day 58.
-Dzienny przychód: 32732
-Zwodowane statki cywilne: 7
-Statki towarowe, które przybyły do portu: 1
-Ilość statków cywilnych przebywających w porcie: 95
-Ilość statków towarowych przebywających w dokach: 3
-Statki cywilne które opóściły port: 5
-Statki towarowe które wypłynęły w morze: 0
-Statki towarowe oczekujące na wejście do portu: 0
+Ten dzień nie był szczęśliwy dla marynarzy...
+W związku z zajściem poważnego wypadku na morzu, port został zamknięty, a podjęcie akcji ratunkowej przez służby kosztowało port: -125
 
 Day 59.
-Dzienny przychód: 23094
-Zwodowane statki cywilne: 4
+Dzienny przychód: 16449
+Zwodowane statki cywilne: 6
 Statki towarowe, które przybyły do portu: 1
-Ilość statków cywilnych przebywających w porcie: 95
-Ilość statków towarowych przebywających w dokach: 2
-Statki cywilne które opóściły port: 4
+Ilość statków cywilnych przebywających w porcie: 55
+Ilość statków towarowych przebywających w dokach: 3
+Statki cywilne które opóściły port: 8
 Statki towarowe które wypłynęły w morze: 2
-Statki towarowe oczekujące na wejście do portu: 1
+Statki towarowe oczekujące na wejście do portu: 0
 
 Day 60.
-Dzienny przychód: 47306
+Dzienny przychód: 15699
 Zwodowane statki cywilne: 5
 Statki towarowe, które przybyły do portu: 2
-Ilość statków cywilnych przebywających w porcie: 94
+Ilość statków cywilnych przebywających w porcie: 57
 Ilość statków towarowych przebywających w dokach: 4
-Statki cywilne które opóściły port: 6
-Statki towarowe które wypłynęły w morze: 0
+Statki cywilne które opóściły port: 3
+Statki towarowe które wypłynęły w morze: 1
 Statki towarowe oczekujące na wejście do portu: 0
 
 Day 61.
-Dzienny przychód: 1821
-Zwodowane statki cywilne: 6
-Statki towarowe, które przybyły do portu: 0
-Ilość statków cywilnych przebywających w porcie: 93
-Ilość statków towarowych przebywających w dokach: 1
-Statki cywilne które opóściły port: 7
-Statki towarowe które wypłynęły w morze: 3
+Dzienny przychód: 10628
+Zwodowane statki cywilne: 5
+Statki towarowe, które przybyły do portu: 1
+Ilość statków cywilnych przebywających w porcie: 59
+Ilość statków towarowych przebywających w dokach: 3
+Statki cywilne które opóściły port: 3
+Statki towarowe które wypłynęły w morze: 2
 Statki towarowe oczekujące na wejście do portu: 1
 
 Day 62.
-Dzienny przychód: 61628
-Zwodowane statki cywilne: 6
-Statki towarowe, które przybyły do portu: 3
-Ilość statków cywilnych przebywających w porcie: 94
-Ilość statków towarowych przebywających w dokach: 4
-Statki cywilne które opóściły port: 5
-Statki towarowe które wypłynęły w morze: 0
-Statki towarowe oczekujące na wejście do portu: 0
+Dzienny przychód: 3719
+Zwodowane statki cywilne: 4
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 54
+Ilość statków towarowych przebywających w dokach: 0
+Statki cywilne które opóściły port: 9
+Statki towarowe które wypłynęły w morze: 3
+Statki towarowe oczekujące na wejście do portu: 2
 
 Day 63.
-Dzienny przychód: 33752
-Zwodowane statki cywilne: 4
-Statki towarowe, które przybyły do portu: 1
-Ilość statków cywilnych przebywających w porcie: 91
-Ilość statków towarowych przebywających w dokach: 4
-Statki cywilne które opóściły port: 7
-Statki towarowe które wypłynęły w morze: 1
+Dzienny przychód: 24395
+Zwodowane statki cywilne: 3
+Statki towarowe, które przybyły do portu: 3
+Ilość statków cywilnych przebywających w porcie: 54
+Ilość statków towarowych przebywających w dokach: 3
+Statki cywilne które opóściły port: 3
+Statki towarowe które wypłynęły w morze: 0
 Statki towarowe oczekujące na wejście do portu: 0
 
 Day 64.
-Dzienny przychód: 1383
+Dzienny przychód: 10146
 Zwodowane statki cywilne: 5
-Statki towarowe, które przybyły do portu: 0
-Ilość statków cywilnych przebywających w porcie: 90
-Ilość statków towarowych przebywających w dokach: 1
-Statki cywilne które opóściły port: 6
-Statki towarowe które wypłynęły w morze: 3
-Statki towarowe oczekujące na wejście do portu: 1
+Statki towarowe, które przybyły do portu: 1
+Ilość statków cywilnych przebywających w porcie: 54
+Ilość statków towarowych przebywających w dokach: 3
+Statki cywilne które opóściły port: 5
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 0
 
 Day 65.
-Dzienny przychód: 40515
+Dzienny przychód: 10565
+Zwodowane statki cywilne: 3
+Statki towarowe, które przybyły do portu: 1
+Ilość statków cywilnych przebywających w porcie: 54
+Ilość statków towarowych przebywających w dokach: 2
+Statki cywilne które opóściły port: 3
+Statki towarowe które wypłynęły w morze: 2
+Statki towarowe oczekujące na wejście do portu: 1
+
+Day 66.
+Dzienny przychód: 19839
 Zwodowane statki cywilne: 4
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 54
+Ilość statków towarowych przebywających w dokach: 3
+Statki cywilne które opóściły port: 4
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 1
+
+Day 67.
+Dzienny przychód: 15400
+Zwodowane statki cywilne: 6
+Statki towarowe, które przybyły do portu: 1
+Ilość statków cywilnych przebywających w porcie: 53
+Ilość statków towarowych przebywających w dokach: 2
+Statki cywilne które opóściły port: 7
+Statki towarowe które wypłynęły w morze: 2
+Statki towarowe oczekujące na wejście do portu: 2
+
+Day 68.
+Dzienny przychód: 23187
+Zwodowane statki cywilne: 6
 Statki towarowe, które przybyły do portu: 3
-Ilość statków cywilnych przebywających w porcie: 92
-Ilość statków towarowych przebywających w dokach: 4
-Statki cywilne które opóściły port: 2
+Ilość statków cywilnych przebywających w porcie: 54
+Ilość statków towarowych przebywających w dokach: 5
+Statki cywilne które opóściły port: 5
 Statki towarowe które wypłynęły w morze: 0
 Statki towarowe oczekujące na wejście do portu: 0
 
-Day 66.
-This day was unfortunate for the sailors.
-The accident caused closing the sea traffic and generated total cost of: -125
-
-Day 67.
-Dzienny przychód: 1389
-Zwodowane statki cywilne: 4
-Statki towarowe, które przybyły do portu: 0
-Ilość statków cywilnych przebywających w porcie: 92
-Ilość statków towarowych przebywających w dokach: 1
-Statki cywilne które opóściły port: 4
-Statki towarowe które wypłynęły w morze: 3
-Statki towarowe oczekujące na wejście do portu: 3
-
-Day 68.
-Dzienny przychód: 41161
-Zwodowane statki cywilne: 5
-Statki towarowe, które przybyły do portu: 2
-Ilość statków cywilnych przebywających w porcie: 92
-Ilość statków towarowych przebywających w dokach: 2
-Statki cywilne które opóściły port: 5
-Statki towarowe które wypłynęły w morze: 1
-Statki towarowe oczekujące na wejście do portu: 1
-
 Day 69.
-Dzienny przychód: 23968
-Zwodowane statki cywilne: 7
-Statki towarowe, które przybyły do portu: 2
-Ilość statków cywilnych przebywających w porcie: 91
-Ilość statków towarowych przebywających w dokach: 3
-Statki cywilne które opóściły port: 8
-Statki towarowe które wypłynęły w morze: 1
-Statki towarowe oczekujące na wejście do portu: 1
+Dzienny przychód: 2621
+Zwodowane statki cywilne: 3
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 51
+Ilość statków towarowych przebywających w dokach: 2
+Statki cywilne które opóściły port: 6
+Statki towarowe które wypłynęły w morze: 3
+Statki towarowe oczekujące na wejście do portu: 0
 
 Day 70.
-Dzienny przychód: 16888
-Zwodowane statki cywilne: 5
-Statki towarowe, które przybyły do portu: 1
-Ilość statków cywilnych przebywających w porcie: 87
-Ilość statków towarowych przebywających w dokach: 2
-Statki cywilne które opóściły port: 9
-Statki towarowe które wypłynęły w morze: 2
-Statki towarowe oczekujące na wejście do portu: 1
+Dzienny przychód: 21531
+Zwodowane statki cywilne: 7
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 53
+Ilość statków towarowych przebywających w dokach: 3
+Statki cywilne które opóściły port: 5
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 0
 
 Day 71.
-Dzienny przychód: 14350
-Zwodowane statki cywilne: 7
+Dzienny przychód: 7192
+Zwodowane statki cywilne: 5
 Statki towarowe, które przybyły do portu: 1
-Ilość statków cywilnych przebywających w porcie: 87
-Ilość statków towarowych przebywających w dokach: 1
-Statki cywilne które opóściły port: 7
-Statki towarowe które wypłynęły w morze: 2
+Ilość statków cywilnych przebywających w porcie: 52
+Ilość statków towarowych przebywających w dokach: 3
+Statki cywilne które opóściły port: 6
+Statki towarowe które wypłynęły w morze: 1
 Statki towarowe oczekujące na wejście do portu: 0
 
 Day 72.
-Dzienny przychód: 19577
-Zwodowane statki cywilne: 5
+Dzienny przychód: 9705
+Zwodowane statki cywilne: 3
 Statki towarowe, które przybyły do portu: 1
-Ilość statków cywilnych przebywających w porcie: 84
-Ilość statków towarowych przebywających w dokach: 1
-Statki cywilne które opóściły port: 8
+Ilość statków cywilnych przebywających w porcie: 50
+Ilość statków towarowych przebywających w dokach: 2
+Statki cywilne które opóściły port: 5
+Statki towarowe które wypłynęły w morze: 2
+Statki towarowe oczekujące na wejście do portu: 1
+
+Day 73.
+Dzienny przychód: 11177
+Zwodowane statki cywilne: 4
+Statki towarowe, które przybyły do portu: 1
+Ilość statków cywilnych przebywających w porcie: 51
+Ilość statków towarowych przebywających w dokach: 2
+Statki cywilne które opóściły port: 3
 Statki towarowe które wypłynęły w morze: 1
 Statki towarowe oczekujące na wejście do portu: 0
 
-Day 73.
-This day was unfortunate for the sailors.
-The accident caused closing the sea traffic and generated total cost of: -125
-
 Day 74.
-Dzienny przychód: 67112
+Dzienny przychód: 8366
+Zwodowane statki cywilne: 5
+Statki towarowe, które przybyły do portu: 1
+Ilość statków cywilnych przebywających w porcie: 54
+Ilość statków towarowych przebywających w dokach: 2
+Statki cywilne które opóściły port: 2
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 75.
+Dzienny przychód: 13118
 Zwodowane statki cywilne: 7
-Statki towarowe, które przybyły do portu: 3
-Ilość statków cywilnych przebywających w porcie: 83
-Ilość statków towarowych przebywających w dokach: 4
+Statki towarowe, które przybyły do portu: 1
+Ilość statków cywilnych przebywających w porcie: 58
+Ilość statków towarowych przebywających w dokach: 1
+Statki cywilne które opóściły port: 3
+Statki towarowe które wypłynęły w morze: 2
+Statki towarowe oczekujące na wejście do portu: 1
+
+Day 76.
+Dzienny przychód: 17825
+Zwodowane statki cywilne: 6
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 56
+Ilość statków towarowych przebywających w dokach: 3
 Statki cywilne które opóściły port: 8
 Statki towarowe które wypłynęły w morze: 0
 Statki towarowe oczekujące na wejście do portu: 0
 
-Day 75.
-Dzienny przychód: 2442
-Zwodowane statki cywilne: 6
-Statki towarowe, które przybyły do portu: 0
-Ilość statków cywilnych przebywających w porcie: 84
-Ilość statków towarowych przebywających w dokach: 3
-Statki cywilne które opóściły port: 5
-Statki towarowe które wypłynęły w morze: 1
-Statki towarowe oczekujące na wejście do portu: 0
-
-Day 76.
-Dzienny przychód: 2151
-Zwodowane statki cywilne: 5
-Statki towarowe, które przybyły do portu: 0
-Ilość statków cywilnych przebywających w porcie: 85
-Ilość statków towarowych przebywających w dokach: 1
-Statki cywilne które opóściły port: 4
+Day 77.
+Dzienny przychód: 13173
+Zwodowane statki cywilne: 4
+Statki towarowe, które przybyły do portu: 1
+Ilość statków cywilnych przebywających w porcie: 57
+Ilość statków towarowych przebywających w dokach: 2
+Statki cywilne które opóściły port: 3
 Statki towarowe które wypłynęły w morze: 2
 Statki towarowe oczekujące na wejście do portu: 0
 
-Day 77.
-Dzienny przychód: 60260
-Zwodowane statki cywilne: 7
-Statki towarowe, które przybyły do portu: 2
-Ilość statków cywilnych przebywających w porcie: 88
-Ilość statków towarowych przebywających w dokach: 2
-Statki cywilne które opóściły port: 4
-Statki towarowe które wypłynęły w morze: 1
-Statki towarowe oczekujące na wejście do portu: 0
-
 Day 78.
-Dzienny przychód: 1626
-Zwodowane statki cywilne: 5
+Dzienny przychód: 1678
+Zwodowane statki cywilne: 3
 Statki towarowe, które przybyły do portu: 0
-Ilość statków cywilnych przebywających w porcie: 87
+Ilość statków cywilnych przebywających w porcie: 53
 Ilość statków towarowych przebywających w dokach: 2
-Statki cywilne które opóściły port: 6
+Statki cywilne które opóściły port: 7
 Statki towarowe które wypłynęły w morze: 0
 Statki towarowe oczekujące na wejście do portu: 0
 
 Day 79.
-Dzienny przychód: 26741
-Zwodowane statki cywilne: 5
-Statki towarowe, które przybyły do portu: 1
-Ilość statków cywilnych przebywających w porcie: 87
+Dzienny przychód: 21839
+Zwodowane statki cywilne: 4
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 50
 Ilość statków towarowych przebywających w dokach: 3
-Statki cywilne które opóściły port: 5
-Statki towarowe które wypłynęły w morze: 0
+Statki cywilne które opóściły port: 7
+Statki towarowe które wypłynęły w morze: 1
 Statki towarowe oczekujące na wejście do portu: 0
 
 Day 80.
-This day was unfortunate for the sailors.
-The accident caused closing the sea traffic and generated total cost of: -125
-
-Day 81.
-This day was unfortunate for the sailors.
-The accident caused closing the sea traffic and generated total cost of: -125
-
-Day 82.
-Dzienny przychód: 19958
+Dzienny przychód: 4126
 Zwodowane statki cywilne: 5
-Statki towarowe, które przybyły do portu: 1
-Ilość statków cywilnych przebywających w porcie: 87
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 49
 Ilość statków towarowych przebywających w dokach: 2
-Statki cywilne które opóściły port: 5
-Statki towarowe które wypłynęły w morze: 2
-Statki towarowe oczekujące na wejście do portu: 2
-
-Day 83.
-Dzienny przychód: 70503
-Zwodowane statki cywilne: 4
-Statki towarowe, które przybyły do portu: 3
-Ilość statków cywilnych przebywających w porcie: 86
-Ilość statków towarowych przebywających w dokach: 5
-Statki cywilne które opóściły port: 5
-Statki towarowe które wypłynęły w morze: 0
+Statki cywilne które opóściły port: 6
+Statki towarowe które wypłynęły w morze: 1
 Statki towarowe oczekujące na wejście do portu: 0
 
-Day 84.
-This day was unfortunate for the sailors.
-The accident caused closing the sea traffic and generated total cost of: -125
+Day 81.
+Ten dzień nie był szczęśliwy dla marynarzy...
+W związku z zajściem poważnego wypadku na morzu, port został zamknięty, a podjęcie akcji ratunkowej przez służby kosztowało port: -125
 
-Day 85.
-Dzienny przychód: 24348
+Day 82.
+Dzienny przychód: 17676
+Zwodowane statki cywilne: 4
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 49
+Ilość statków towarowych przebywających w dokach: 3
+Statki cywilne które opóściły port: 4
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 83.
+Dzienny przychód: 15809
 Zwodowane statki cywilne: 7
 Statki towarowe, które przybyły do portu: 1
-Ilość statków cywilnych przebywających w porcie: 89
-Ilość statków towarowych przebywających w dokach: 4
+Ilość statków cywilnych przebywających w porcie: 52
+Ilość statków towarowych przebywających w dokach: 2
 Statki cywilne które opóściły port: 4
 Statki towarowe które wypłynęły w morze: 2
 Statki towarowe oczekujące na wejście do portu: 1
 
-Day 86.
-Dzienny przychód: 23494
+Day 84.
+Dzienny przychód: 22432
 Zwodowane statki cywilne: 5
-Statki towarowe, które przybyły do portu: 1
-Ilość statków cywilnych przebywających w porcie: 92
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 52
 Ilość statków towarowych przebywających w dokach: 3
-Statki cywilne które opóściły port: 2
-Statki towarowe które wypłynęły w morze: 2
+Statki cywilne które opóściły port: 5
+Statki towarowe które wypłynęły w morze: 1
 Statki towarowe oczekujące na wejście do portu: 1
 
-Day 87.
-Dzienny przychód: 30032
-Zwodowane statki cywilne: 4
+Day 85.
+Dzienny przychód: 10236
+Zwodowane statki cywilne: 7
 Statki towarowe, które przybyły do portu: 1
-Ilość statków cywilnych przebywających w porcie: 94
+Ilość statków cywilnych przebywających w porcie: 56
+Ilość statków towarowych przebywających w dokach: 4
+Statki cywilne które opóściły port: 3
+Statki towarowe które wypłynęły w morze: 0
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 86.
+Dzienny przychód: 5372
+Zwodowane statki cywilne: 7
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 60
 Ilość statków towarowych przebywających w dokach: 2
-Statki cywilne które opóściły port: 2
+Statki cywilne które opóściły port: 3
+Statki towarowe które wypłynęły w morze: 2
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 87.
+Dzienny przychód: 2384
+Zwodowane statki cywilne: 3
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 57
+Ilość statków towarowych przebywających w dokach: 0
+Statki cywilne które opóściły port: 6
 Statki towarowe które wypłynęły w morze: 2
 Statki towarowe oczekujące na wejście do portu: 0
 
 Day 88.
-Dzienny przychód: 2907
-Zwodowane statki cywilne: 7
+Dzienny przychód: 4722
+Zwodowane statki cywilne: 5
 Statki towarowe, które przybyły do portu: 0
-Ilość statków cywilnych przebywających w porcie: 93
-Ilość statków towarowych przebywających w dokach: 1
-Statki cywilne które opóściły port: 8
-Statki towarowe które wypłynęły w morze: 1
+Ilość statków cywilnych przebywających w porcie: 57
+Ilość statków towarowych przebywających w dokach: 0
+Statki cywilne które opóściły port: 5
+Statki towarowe które wypłynęły w morze: 0
 Statki towarowe oczekujące na wejście do portu: 0
 
 Day 89.
-Dzienny przychód: 41717
+Dzienny przychód: 5691
+Zwodowane statki cywilne: 6
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 60
+Ilość statków towarowych przebywających w dokach: 0
+Statki cywilne które opóściły port: 3
+Statki towarowe które wypłynęły w morze: 0
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 90.
+Dzienny przychód: 2517
+Zwodowane statki cywilne: 3
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 59
+Ilość statków towarowych przebywających w dokach: 0
+Statki cywilne które opóściły port: 4
+Statki towarowe które wypłynęły w morze: 0
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 91.
+Dzienny przychód: 16196
+Zwodowane statki cywilne: 7
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 62
+Ilość statków towarowych przebywających w dokach: 2
+Statki cywilne które opóściły port: 4
+Statki towarowe które wypłynęły w morze: 0
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 92.
+Dzienny przychód: 6344
+Zwodowane statki cywilne: 7
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 58
+Ilość statków towarowych przebywających w dokach: 0
+Statki cywilne które opóściły port: 11
+Statki towarowe które wypłynęły w morze: 2
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 93.
+Dzienny przychód: 12215
+Zwodowane statki cywilne: 5
+Statki towarowe, które przybyły do portu: 1
+Ilość statków cywilnych przebywających w porcie: 56
+Ilość statków towarowych przebywających w dokach: 1
+Statki cywilne które opóściły port: 7
+Statki towarowe które wypłynęły w morze: 0
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 94.
+Dzienny przychód: 11746
+Zwodowane statki cywilne: 6
+Statki towarowe, które przybyły do portu: 1
+Ilość statków cywilnych przebywających w porcie: 57
+Ilość statków towarowych przebywających w dokach: 2
+Statki cywilne które opóściły port: 5
+Statki towarowe które wypłynęły w morze: 0
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 95.
+Dzienny przychód: 15213
+Zwodowane statki cywilne: 3
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 58
+Ilość statków towarowych przebywających w dokach: 3
+Statki cywilne które opóściły port: 2
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 96.
+Dzienny przychód: 4484
+Zwodowane statki cywilne: 4
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 55
+Ilość statków towarowych przebywających w dokach: 1
+Statki cywilne które opóściły port: 7
+Statki towarowe które wypłynęły w morze: 2
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 97.
+Dzienny przychód: 22709
+Zwodowane statki cywilne: 4
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 55
+Ilość statków towarowych przebywających w dokach: 2
+Statki cywilne które opóściły port: 4
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 98.
+Dzienny przychód: 9027
+Zwodowane statki cywilne: 7
+Statki towarowe, które przybyły do portu: 1
+Ilość statków cywilnych przebywających w porcie: 57
+Ilość statków towarowych przebywających w dokach: 3
+Statki cywilne które opóściły port: 5
+Statki towarowe które wypłynęły w morze: 0
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 99.
+Dzienny przychód: 2549
+Zwodowane statki cywilne: 3
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 57
+Ilość statków towarowych przebywających w dokach: 2
+Statki cywilne które opóściły port: 3
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 100.
+Dzienny przychód: 11646
+Zwodowane statki cywilne: 5
+Statki towarowe, które przybyły do portu: 1
+Ilość statków cywilnych przebywających w porcie: 57
+Ilość statków towarowych przebywających w dokach: 1
+Statki cywilne które opóściły port: 5
+Statki towarowe które wypłynęły w morze: 2
+Statki towarowe oczekujące na wejście do portu: 1
+
+Day 101.
+Ten dzień nie był szczęśliwy dla marynarzy...
+W związku z zajściem poważnego wypadku na morzu, port został zamknięty, a podjęcie akcji ratunkowej przez służby kosztowało port: -125
+
+Day 102.
+Dzienny przychód: 38295
+Zwodowane statki cywilne: 7
+Statki towarowe, które przybyły do portu: 3
+Ilość statków cywilnych przebywających w porcie: 56
+Ilość statków towarowych przebywających w dokach: 4
+Statki cywilne które opóściły port: 8
+Statki towarowe które wypłynęły w morze: 0
+Statki towarowe oczekujące na wejście do portu: 1
+
+Day 103.
+Dzienny przychód: 9623
+Zwodowane statki cywilne: 4
+Statki towarowe, które przybyły do portu: 1
+Ilość statków cywilnych przebywających w porcie: 53
+Ilość statków towarowych przebywających w dokach: 4
+Statki cywilne które opóściły port: 7
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 104.
+Dzienny przychód: 4579
+Zwodowane statki cywilne: 5
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 54
+Ilość statków towarowych przebywających w dokach: 3
+Statki cywilne które opóściły port: 4
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 105.
+Ten dzień nie był szczęśliwy dla marynarzy...
+W związku z zajściem poważnego wypadku na morzu, port został zamknięty, a podjęcie akcji ratunkowej przez służby kosztowało port: -125
+
+Day 106.
+Dzienny przychód: 2545
+Zwodowane statki cywilne: 3
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 53
+Ilość statków towarowych przebywających w dokach: 0
+Statki cywilne które opóściły port: 4
+Statki towarowe które wypłynęły w morze: 3
+Statki towarowe oczekujące na wejście do portu: 1
+
+Day 107.
+Dzienny przychód: 6271
+Zwodowane statki cywilne: 3
+Statki towarowe, które przybyły do portu: 1
+Ilość statków cywilnych przebywających w porcie: 50
+Ilość statków towarowych przebywających w dokach: 1
+Statki cywilne które opóściły port: 6
+Statki towarowe które wypłynęły w morze: 0
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 108.
+Dzienny przychód: 18060
 Zwodowane statki cywilne: 5
 Statki towarowe, które przybyły do portu: 2
-Ilość statków cywilnych przebywających w porcie: 91
+Ilość statków cywilnych przebywających w porcie: 50
+Ilość statków towarowych przebywających w dokach: 2
+Statki cywilne które opóściły port: 5
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 109.
+Dzienny przychód: 5810
+Zwodowane statki cywilne: 7
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 55
+Ilość statków towarowych przebywających w dokach: 1
+Statki cywilne które opóściły port: 2
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 110.
+Dzienny przychód: 6471
+Zwodowane statki cywilne: 7
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 59
+Ilość statków towarowych przebywających w dokach: 1
+Statki cywilne które opóściły port: 3
+Statki towarowe które wypłynęły w morze: 0
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 111.
+Dzienny przychód: 3672
+Zwodowane statki cywilne: 4
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 60
+Ilość statków towarowych przebywających w dokach: 0
+Statki cywilne które opóściły port: 3
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 112.
+Dzienny przychód: 11855
+Zwodowane statki cywilne: 5
+Statki towarowe, które przybyły do portu: 1
+Ilość statków cywilnych przebywających w porcie: 57
+Ilość statków towarowych przebywających w dokach: 1
+Statki cywilne które opóściły port: 8
+Statki towarowe które wypłynęły w morze: 0
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 113.
+Ten dzień nie był szczęśliwy dla marynarzy...
+W związku z zajściem poważnego wypadku na morzu, port został zamknięty, a podjęcie akcji ratunkowej przez służby kosztowało port: -125
+
+Day 114.
+Dzienny przychód: 25107
+Zwodowane statki cywilne: 6
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 56
 Ilość statków towarowych przebywających w dokach: 3
 Statki cywilne które opóściły port: 7
 Statki towarowe które wypłynęły w morze: 0
 Statki towarowe oczekujące na wejście do portu: 0
 
-Day 90.
-Dzienny przychód: 2919
+Day 115.
+Ten dzień nie był szczęśliwy dla marynarzy...
+W związku z zajściem poważnego wypadku na morzu, port został zamknięty, a podjęcie akcji ratunkowej przez służby kosztowało port: -125
+
+Day 116.
+Dzienny przychód: 21731
+Zwodowane statki cywilne: 5
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 58
+Ilość statków towarowych przebywających w dokach: 4
+Statki cywilne które opóściły port: 3
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 117.
+Dzienny przychód: 4550
+Zwodowane statki cywilne: 6
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 60
+Ilość statków towarowych przebywających w dokach: 4
+Statki cywilne które opóściły port: 4
+Statki towarowe które wypłynęły w morze: 0
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 118.
+Dzienny przychód: 3613
+Zwodowane statki cywilne: 4
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 59
+Ilość statków towarowych przebywających w dokach: 1
+Statki cywilne które opóściły port: 5
+Statki towarowe które wypłynęły w morze: 3
+Statki towarowe oczekujące na wejście do portu: 2
+
+Day 119.
+Dzienny przychód: 23566
+Zwodowane statki cywilne: 4
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 56
+Ilość statków towarowych przebywających w dokach: 2
+Statki cywilne które opóściły port: 7
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 1
+
+Day 120.
+Ten dzień nie był szczęśliwy dla marynarzy...
+W związku z zajściem poważnego wypadku na morzu, port został zamknięty, a podjęcie akcji ratunkowej przez służby kosztowało port: -800
+
+Day 121.
+Ten dzień nie był szczęśliwy dla marynarzy...
+W związku z zajściem poważnego wypadku na morzu, port został zamknięty, a podjęcie akcji ratunkowej przez służby kosztowało port: -125
+
+Day 122.
+Dzienny przychód: 24047
+Zwodowane statki cywilne: 5
+Statki towarowe, które przybyły do portu: 3
+Ilość statków cywilnych przebywających w porcie: 55
+Ilość statków towarowych przebywających w dokach: 5
+Statki cywilne które opóściły port: 6
+Statki towarowe które wypłynęły w morze: 0
+Statki towarowe oczekujące na wejście do portu: 1
+
+Day 123.
+Dzienny przychód: 8267
+Zwodowane statki cywilne: 6
+Statki towarowe, które przybyły do portu: 1
+Ilość statków cywilnych przebywających w porcie: 55
+Ilość statków towarowych przebywających w dokach: 5
+Statki cywilne które opóściły port: 6
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 124.
+Dzienny przychód: 5682
+Zwodowane statki cywilne: 6
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 55
+Ilość statków towarowych przebywających w dokach: 2
+Statki cywilne które opóściły port: 6
+Statki towarowe które wypłynęły w morze: 3
+Statki towarowe oczekujące na wejście do portu: 2
+
+Day 125.
+Dzienny przychód: 10702
+Zwodowane statki cywilne: 5
+Statki towarowe, które przybyły do portu: 1
+Ilość statków cywilnych przebywających w porcie: 55
+Ilość statków towarowych przebywających w dokach: 1
+Statki cywilne które opóściły port: 5
+Statki towarowe które wypłynęły w morze: 2
+Statki towarowe oczekujące na wejście do portu: 3
+
+Day 126.
+Dzienny przychód: 21223
+Zwodowane statki cywilne: 3
+Statki towarowe, które przybyły do portu: 3
+Ilość statków cywilnych przebywających w porcie: 56
+Ilość statków towarowych przebywających w dokach: 4
+Statki cywilne które opóściły port: 2
+Statki towarowe które wypłynęły w morze: 0
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 127.
+Dzienny przychód: 4166
+Zwodowane statki cywilne: 4
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 53
+Ilość statków towarowych przebywających w dokach: 1
+Statki cywilne które opóściły port: 7
+Statki towarowe które wypłynęły w morze: 3
+Statki towarowe oczekujące na wejście do portu: 2
+
+Day 128.
+Dzienny przychód: 22684
+Zwodowane statki cywilne: 7
+Statki towarowe, które przybyły do portu: 3
+Ilość statków cywilnych przebywających w porcie: 56
+Ilość statków towarowych przebywających w dokach: 4
+Statki cywilne które opóściły port: 4
+Statki towarowe które wypłynęły w morze: 0
+Statki towarowe oczekujące na wejście do portu: 1
+
+Day 129.
+Dzienny przychód: 3805
+Zwodowane statki cywilne: 5
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 55
+Ilość statków towarowych przebywających w dokach: 1
+Statki cywilne które opóściły port: 6
+Statki towarowe które wypłynęły w morze: 3
+Statki towarowe oczekujące na wejście do portu: 3
+
+Day 130.
+Dzienny przychód: 16768
+Zwodowane statki cywilne: 5
+Statki towarowe, które przybyły do portu: 3
+Ilość statków cywilnych przebywających w porcie: 50
+Ilość statków towarowych przebywających w dokach: 4
+Statki cywilne które opóściły port: 10
+Statki towarowe które wypłynęły w morze: 0
+Statki towarowe oczekujące na wejście do portu: 1
+
+Day 131.
+Dzienny przychód: 3712
+Zwodowane statki cywilne: 4
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 52
+Ilość statków towarowych przebywających w dokach: 1
+Statki cywilne które opóściły port: 2
+Statki towarowe które wypłynęły w morze: 3
+Statki towarowe oczekujące na wejście do portu: 1
+
+Day 132.
+Dzienny przychód: 9416
+Zwodowane statki cywilne: 5
+Statki towarowe, które przybyły do portu: 1
+Ilość statków cywilnych przebywających w porcie: 53
+Ilość statków towarowych przebywających w dokach: 1
+Statki cywilne które opóściły port: 4
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 133.
+Dzienny przychód: 5663
 Zwodowane statki cywilne: 7
 Statki towarowe, które przybyły do portu: 0
-Ilość statków cywilnych przebywających w porcie: 93
+Ilość statków cywilnych przebywających w porcie: 56
+Ilość statków towarowych przebywających w dokach: 0
+Statki cywilne które opóściły port: 4
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 134.
+Dzienny przychód: 13452
+Zwodowane statki cywilne: 6
+Statki towarowe, które przybyły do portu: 1
+Ilość statków cywilnych przebywających w porcie: 58
+Ilość statków towarowych przebywających w dokach: 1
+Statki cywilne które opóściły port: 4
+Statki towarowe które wypłynęły w morze: 0
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 135.
+Dzienny przychód: 12954
+Zwodowane statki cywilne: 5
+Statki towarowe, które przybyły do portu: 1
+Ilość statków cywilnych przebywających w porcie: 56
+Ilość statków towarowych przebywających w dokach: 2
+Statki cywilne które opóściły port: 7
+Statki towarowe które wypłynęły w morze: 0
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 136.
+Ten dzień nie był szczęśliwy dla marynarzy...
+W związku z zajściem poważnego wypadku na morzu, port został zamknięty, a podjęcie akcji ratunkowej przez służby kosztowało port: -125
+
+Day 137.
+Dzienny przychód: 23791
+Zwodowane statki cywilne: 7
+Statki towarowe, które przybyły do portu: 3
+Ilość statków cywilnych przebywających w porcie: 58
+Ilość statków towarowych przebywających w dokach: 5
+Statki cywilne które opóściły port: 5
+Statki towarowe które wypłynęły w morze: 0
+Statki towarowe oczekujące na wejście do portu: 1
+
+Day 138.
+Dzienny przychód: 2657
+Zwodowane statki cywilne: 3
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 53
+Ilość statków towarowych przebywających w dokach: 2
+Statki cywilne które opóściły port: 8
+Statki towarowe które wypłynęły w morze: 3
+Statki towarowe oczekujące na wejście do portu: 3
+
+Day 139.
+Dzienny przychód: 19131
+Zwodowane statki cywilne: 6
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 54
+Ilość statków towarowych przebywających w dokach: 3
+Statki cywilne które opóściły port: 5
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 1
+
+Day 140.
+Dzienny przychód: 8684
+Zwodowane statki cywilne: 6
+Statki towarowe, które przybyły do portu: 1
+Ilość statków cywilnych przebywających w porcie: 58
+Ilość statków towarowych przebywających w dokach: 2
+Statki cywilne które opóściły port: 2
+Statki towarowe które wypłynęły w morze: 2
+Statki towarowe oczekujące na wejście do portu: 2
+
+Day 141.
+Dzienny przychód: 18995
+Zwodowane statki cywilne: 7
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 58
+Ilość statków towarowych przebywających w dokach: 3
+Statki cywilne które opóściły port: 7
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 142.
+Dzienny przychód: 2411
+Zwodowane statki cywilne: 3
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 56
 Ilość statków towarowych przebywających w dokach: 1
 Statki cywilne które opóściły port: 5
 Statki towarowe które wypłynęły w morze: 2
 Statki towarowe oczekujące na wejście do portu: 0
 
-Day 91.
-This day was unfortunate for the sailors.
-The accident caused closing the sea traffic and generated total cost of: -125
+Day 143.
+Dzienny przychód: 23922
+Zwodowane statki cywilne: 5
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 56
+Ilość statków towarowych przebywających w dokach: 2
+Statki cywilne które opóściły port: 5
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 0
 
-Day 92.
-Dzienny przychód: 64921
-Zwodowane statki cywilne: 4
+Day 144.
+Ten dzień nie był szczęśliwy dla marynarzy...
+W związku z zajściem poważnego wypadku na morzu, port został zamknięty, a podjęcie akcji ratunkowej przez służby kosztowało port: -125
+
+Day 145.
+Dzienny przychód: 31560
+Zwodowane statki cywilne: 7
 Statki towarowe, które przybyły do portu: 3
-Ilość statków cywilnych przebywających w porcie: 94
-Ilość statków towarowych przebywających w dokach: 4
+Ilość statków cywilnych przebywających w porcie: 55
+Ilość statków towarowych przebywających w dokach: 5
+Statki cywilne które opóściły port: 8
+Statki towarowe które wypłynęły w morze: 0
+Statki towarowe oczekujące na wejście do portu: 1
+
+Day 146.
+Dzienny przychód: 9286
+Zwodowane statki cywilne: 3
+Statki towarowe, które przybyły do portu: 1
+Ilość statków cywilnych przebywających w porcie: 55
+Ilość statków towarowych przebywających w dokach: 6
 Statki cywilne które opóściły port: 3
 Statki towarowe które wypłynęły w morze: 0
 Statki towarowe oczekujące na wejście do portu: 0
 
-Day 93.
-Dzienny przychód: 32069
-Zwodowane statki cywilne: 7
-Statki towarowe, które przybyły do portu: 1
-Ilość statków cywilnych przebywających w porcie: 90
-Ilość statków towarowych przebywających w dokach: 3
-Statki cywilne które opóściły port: 11
-Statki towarowe które wypłynęły w morze: 2
-Statki towarowe oczekujące na wejście do portu: 0
-
-Day 94.
-Dzienny przychód: 1326
+Day 147.
+Dzienny przychód: 3537
 Zwodowane statki cywilne: 4
 Statki towarowe, które przybyły do portu: 0
-Ilość statków cywilnych przebywających w porcie: 90
-Ilość statków towarowych przebywających w dokach: 2
-Statki cywilne które opóściły port: 4
-Statki towarowe które wypłynęły w morze: 1
+Ilość statków cywilnych przebywających w porcie: 54
+Ilość statków towarowych przebywających w dokach: 3
+Statki cywilne które opóściły port: 5
+Statki towarowe które wypłynęły w morze: 3
 Statki towarowe oczekujące na wejście do portu: 0
 
-Day 95.
-Dzienny przychód: 1686
+Day 148.
+Dzienny przychód: 4312
 Zwodowane statki cywilne: 5
 Statki towarowe, które przybyły do portu: 0
-Ilość statków cywilnych przebywających w porcie: 89
-Ilość statków towarowych przebywających w dokach: 1
-Statki cywilne które opóściły port: 6
-Statki towarowe które wypłynęły w morze: 1
+Ilość statków cywilnych przebywających w porcie: 57
+Ilość statków towarowych przebywających w dokach: 0
+Statki cywilne które opóściły port: 2
+Statki towarowe które wypłynęły w morze: 3
 Statki towarowe oczekujące na wejście do portu: 0
 
-Day 96.
-Dzienny przychód: 21475
-Zwodowane statki cywilne: 4
-Statki towarowe, które przybyły do portu: 1
-Ilość statków cywilnych przebywających w porcie: 87
-Ilość statków towarowych przebywających w dokach: 1
-Statki cywilne które opóściły port: 6
-Statki towarowe które wypłynęły w morze: 1
-Statki towarowe oczekujące na wejście do portu: 0
-
-Day 97.
-Dzienny przychód: 2136
+Day 149.
+Dzienny przychód: 5569
 Zwodowane statki cywilne: 6
 Statki towarowe, które przybyły do portu: 0
-Ilość statków cywilnych przebywających w porcie: 90
-Ilość statków towarowych przebywających w dokach: 1
-Statki cywilne które opóściły port: 3
+Ilość statków cywilnych przebywających w porcie: 56
+Ilość statków towarowych przebywających w dokach: 0
+Statki cywilne które opóściły port: 7
 Statki towarowe które wypłynęły w morze: 0
 Statki towarowe oczekujące na wejście do portu: 0
 
-Day 98.
-Dzienny przychód: 45496
+Day 150.
+Dzienny przychód: 23622
 Zwodowane statki cywilne: 7
 Statki towarowe, które przybyły do portu: 2
-Ilość statków cywilnych przebywających w porcie: 94
+Ilość statków cywilnych przebywających w porcie: 58
 Ilość statków towarowych przebywających w dokach: 2
-Statki cywilne które opóściły port: 3
-Statki towarowe które wypłynęły w morze: 1
+Statki cywilne które opóściły port: 5
+Statki towarowe które wypłynęły w morze: 0
 Statki towarowe oczekujące na wejście do portu: 0
 
-Day 99.
-Dzienny przychód: 63284
-Zwodowane statki cywilne: 7
+Day 151.
+Ten dzień nie był szczęśliwy dla marynarzy...
+W związku z zajściem poważnego wypadku na morzu, port został zamknięty, a podjęcie akcji ratunkowej przez służby kosztowało port: -125
+
+Day 152.
+Dzienny przychód: 16690
+Zwodowane statki cywilne: 5
 Statki towarowe, które przybyły do portu: 2
-Ilość statków cywilnych przebywających w porcie: 94
+Ilość statków cywilnych przebywających w porcie: 56
 Ilość statków towarowych przebywających w dokach: 4
 Statki cywilne które opóściły port: 7
 Statki towarowe które wypłynęły w morze: 0
 Statki towarowe oczekujące na wejście do portu: 0
 
-Day 100.
-Dzienny przychód: 43907
-Zwodowane statki cywilne: 5
+Day 153.
+Dzienny przychód: 10710
+Zwodowane statki cywilne: 6
+Statki towarowe, które przybyły do portu: 1
+Ilość statków cywilnych przebywających w porcie: 56
+Ilość statków towarowych przebywających w dokach: 3
+Statki cywilne które opóściły port: 6
+Statki towarowe które wypłynęły w morze: 2
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 154.
+Dzienny przychód: 6704
+Zwodowane statki cywilne: 7
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 60
+Ilość statków towarowych przebywających w dokach: 0
+Statki cywilne które opóściły port: 3
+Statki towarowe które wypłynęły w morze: 3
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 155.
+Ten dzień nie był szczęśliwy dla marynarzy...
+W związku z zajściem poważnego wypadku na morzu, port został zamknięty, a podjęcie akcji ratunkowej przez służby kosztowało port: -125
+
+Day 156.
+Ten dzień nie był szczęśliwy dla marynarzy...
+W związku z zajściem poważnego wypadku na morzu, port został zamknięty, a podjęcie akcji ratunkowej przez służby kosztowało port: -125
+
+Day 157.
+Ten dzień nie był szczęśliwy dla marynarzy...
+W związku z zajściem poważnego wypadku na morzu, port został zamknięty, a podjęcie akcji ratunkowej przez służby kosztowało port: -125
+
+Day 158.
+Dzienny przychód: 16800
+Zwodowane statki cywilne: 4
+Statki towarowe, które przybyły do portu: 3
+Ilość statków cywilnych przebywających w porcie: 57
+Ilość statków towarowych przebywających w dokach: 3
+Statki cywilne które opóściły port: 7
+Statki towarowe które wypłynęły w morze: 0
+Statki towarowe oczekujące na wejście do portu: 4
+
+Day 159.
+Dzienny przychód: 11004
+Zwodowane statki cywilne: 7
+Statki towarowe, które przybyły do portu: 1
+Ilość statków cywilnych przebywających w porcie: 59
+Ilość statków towarowych przebywających w dokach: 2
+Statki cywilne które opóściły port: 5
+Statki towarowe które wypłynęły w morze: 2
+Statki towarowe oczekujące na wejście do portu: 3
+
+Day 160.
+Ten dzień nie był szczęśliwy dla marynarzy...
+W związku z zajściem poważnego wypadku na morzu, port został zamknięty, a podjęcie akcji ratunkowej przez służby kosztowało port: -125
+
+Day 161.
+Dzienny przychód: 10486
+Zwodowane statki cywilne: 4
+Statki towarowe, które przybyły do portu: 1
+Ilość statków cywilnych przebywających w porcie: 58
+Ilość statków towarowych przebywających w dokach: 1
+Statki cywilne które opóściły port: 5
+Statki towarowe które wypłynęły w morze: 2
+Statki towarowe oczekujące na wejście do portu: 3
+
+Day 162.
+Ten dzień nie był szczęśliwy dla marynarzy...
+W związku z zajściem poważnego wypadku na morzu, port został zamknięty, a podjęcie akcji ratunkowej przez służby kosztowało port: -125
+
+Day 163.
+Dzienny przychód: 28733
+Zwodowane statki cywilne: 3
+Statki towarowe, które przybyły do portu: 3
+Ilość statków cywilnych przebywających w porcie: 58
+Ilość statków towarowych przebywających w dokach: 4
+Statki cywilne które opóściły port: 3
+Statki towarowe które wypłynęły w morze: 0
+Statki towarowe oczekujące na wejście do portu: 1
+
+Day 164.
+Dzienny przychód: 9633
+Zwodowane statki cywilne: 6
+Statki towarowe, które przybyły do portu: 1
+Ilość statków cywilnych przebywających w porcie: 60
+Ilość statków towarowych przebywających w dokach: 3
+Statki cywilne które opóściły port: 4
+Statki towarowe które wypłynęły w morze: 2
+Statki towarowe oczekujące na wejście do portu: 2
+
+Day 165.
+Dzienny przychód: 19460
+Zwodowane statki cywilne: 6
 Statki towarowe, które przybyły do portu: 2
-Ilość statków cywilnych przebywających w porcie: 95
+Ilość statków cywilnych przebywających w porcie: 61
+Ilość statków towarowych przebywających w dokach: 4
+Statki cywilne które opóściły port: 5
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 2
+
+Day 166.
+Dzienny przychód: 5981
+Zwodowane statki cywilne: 7
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 62
+Ilość statków towarowych przebywających w dokach: 1
+Statki cywilne które opóściły port: 6
+Statki towarowe które wypłynęły w morze: 3
+Statki towarowe oczekujące na wejście do portu: 4
+
+Day 167.
+Dzienny przychód: 25847
+Zwodowane statki cywilne: 6
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 60
+Ilość statków towarowych przebywających w dokach: 2
+Statki cywilne które opóściły port: 8
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 3
+
+Day 168.
+Ten dzień nie był szczęśliwy dla marynarzy...
+W związku z zajściem poważnego wypadku na morzu, port został zamknięty, a podjęcie akcji ratunkowej przez służby kosztowało port: -125
+
+Day 169.
+Dzienny przychód: 23384
+Zwodowane statki cywilne: 3
+Statki towarowe, które przybyły do portu: 3
+Ilość statków cywilnych przebywających w porcie: 58
 Ilość statków towarowych przebywających w dokach: 5
+Statki cywilne które opóściły port: 5
+Statki towarowe które wypłynęły w morze: 0
+Statki towarowe oczekujące na wejście do portu: 3
+
+Day 170.
+Dzienny przychód: 15180
+Zwodowane statki cywilne: 7
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 56
+Ilość statków towarowych przebywających w dokach: 6
+Statki cywilne które opóściły port: 9
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 1
+
+Day 171.
+Dzienny przychód: 3707
+Zwodowane statki cywilne: 4
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 57
+Ilość statków towarowych przebywających w dokach: 3
+Statki cywilne które opóściły port: 3
+Statki towarowe które wypłynęły w morze: 3
+Statki towarowe oczekujące na wejście do portu: 3
+
+Day 172.
+Dzienny przychód: 6072
+Zwodowane statki cywilne: 7
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 59
+Ilość statków towarowych przebywających w dokach: 0
+Statki cywilne które opóściły port: 5
+Statki towarowe które wypłynęły w morze: 3
+Statki towarowe oczekujące na wejście do portu: 3
+
+Day 173.
+Ten dzień nie był szczęśliwy dla marynarzy...
+W związku z zajściem poważnego wypadku na morzu, port został zamknięty, a podjęcie akcji ratunkowej przez służby kosztowało port: -125
+
+Day 174.
+Dzienny przychód: 23323
+Zwodowane statki cywilne: 5
+Statki towarowe, które przybyły do portu: 3
+Ilość statków cywilnych przebywających w porcie: 60
+Ilość statków towarowych przebywających w dokach: 3
+Statki cywilne które opóściły port: 4
+Statki towarowe które wypłynęły w morze: 0
+Statki towarowe oczekujące na wejście do portu: 2
+
+Day 175.
+Dzienny przychód: 9225
+Zwodowane statki cywilne: 5
+Statki towarowe, które przybyły do portu: 1
+Ilość statków cywilnych przebywających w porcie: 59
+Ilość statków towarowych przebywających w dokach: 2
+Statki cywilne które opóściły port: 6
+Statki towarowe które wypłynęły w morze: 2
+Statki towarowe oczekujące na wejście do portu: 2
+
+Day 176.
+Dzienny przychód: 19304
+Zwodowane statki cywilne: 7
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 63
+Ilość statków towarowych przebywających w dokach: 3
+Statki cywilne które opóściły port: 3
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 2
+
+Day 177.
+Dzienny przychód: 11218
+Zwodowane statki cywilne: 5
+Statki towarowe, które przybyły do portu: 1
+Ilość statków cywilnych przebywających w porcie: 64
+Ilość statków towarowych przebywających w dokach: 2
+Statki cywilne które opóściły port: 4
+Statki towarowe które wypłynęły w morze: 2
+Statki towarowe oczekujące na wejście do portu: 3
+
+Day 178.
+Dzienny przychód: 31116
+Zwodowane statki cywilne: 7
+Statki towarowe, które przybyły do portu: 3
+Ilość statków cywilnych przebywających w porcie: 62
+Ilość statków towarowych przebywających w dokach: 5
+Statki cywilne które opóściły port: 9
+Statki towarowe które wypłynęły w morze: 0
+Statki towarowe oczekujące na wejście do portu: 2
+
+Day 179.
+Dzienny przychód: 10132
+Zwodowane statki cywilne: 5
+Statki towarowe, które przybyły do portu: 1
+Ilość statków cywilnych przebywających w porcie: 59
+Ilość statków towarowych przebywających w dokach: 4
+Statki cywilne które opóściły port: 8
+Statki towarowe które wypłynęły w morze: 2
+Statki towarowe oczekujące na wejście do portu: 3
+
+Day 180.
+Dzienny przychód: 2493
+Zwodowane statki cywilne: 3
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 54
+Ilość statków towarowych przebywających w dokach: 1
+Statki cywilne które opóściły port: 8
+Statki towarowe które wypłynęły w morze: 3
+Statki towarowe oczekujące na wejście do portu: 3
+
+Day 181.
+Dzienny przychód: 17742
+Zwodowane statki cywilne: 3
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 54
+Ilość statków towarowych przebywających w dokach: 2
+Statki cywilne które opóściły port: 3
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 2
+
+Day 182.
+Dzienny przychód: 20570
+Zwodowane statki cywilne: 6
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 58
+Ilość statków towarowych przebywających w dokach: 3
+Statki cywilne które opóściły port: 2
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 183.
+Dzienny przychód: 25829
+Zwodowane statki cywilne: 4
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 57
+Ilość statków towarowych przebywających w dokach: 4
+Statki cywilne które opóściły port: 5
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 184.
+Dzienny przychód: 15502
+Zwodowane statki cywilne: 7
+Statki towarowe, które przybyły do portu: 1
+Ilość statków cywilnych przebywających w porcie: 60
+Ilość statków towarowych przebywających w dokach: 4
 Statki cywilne które opóściły port: 4
 Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 185.
+Dzienny przychód: 9840
+Zwodowane statki cywilne: 5
+Statki towarowe, które przybyły do portu: 1
+Ilość statków cywilnych przebywających w porcie: 56
+Ilość statków towarowych przebywających w dokach: 4
+Statki cywilne które opóściły port: 9
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 186.
+Ten dzień nie był szczęśliwy dla marynarzy...
+W związku z zajściem poważnego wypadku na morzu, port został zamknięty, a podjęcie akcji ratunkowej przez służby kosztowało port: -800
+
+Day 187.
+Dzienny przychód: 4453
+Zwodowane statki cywilne: 5
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 56
+Ilość statków towarowych przebywających w dokach: 1
+Statki cywilne które opóściły port: 5
+Statki towarowe które wypłynęły w morze: 3
+Statki towarowe oczekujące na wejście do portu: 3
+
+Day 188.
+Dzienny przychód: 21303
+Zwodowane statki cywilne: 7
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 58
+Ilość statków towarowych przebywających w dokach: 2
+Statki cywilne które opóściły port: 5
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 2
+
+Day 189.
+Ten dzień nie był szczęśliwy dla marynarzy...
+W związku z zajściem poważnego wypadku na morzu, port został zamknięty, a podjęcie akcji ratunkowej przez służby kosztowało port: -125
+
+Day 190.
+Dzienny przychód: 14310
+Zwodowane statki cywilne: 3
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 55
+Ilość statków towarowych przebywających w dokach: 3
+Statki cywilne które opóściły port: 6
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 3
+
+Day 191.
+Dzienny przychód: 15909
+Zwodowane statki cywilne: 3
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 53
+Ilość statków towarowych przebywających w dokach: 4
+Statki cywilne które opóściły port: 5
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 2
+
+Day 192.
+Ten dzień nie był szczęśliwy dla marynarzy...
+W związku z zajściem poważnego wypadku na morzu, port został zamknięty, a podjęcie akcji ratunkowej przez służby kosztowało port: -125
+
+Day 193.
+Dzienny przychód: 2930
+Zwodowane statki cywilne: 3
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 51
+Ilość statków towarowych przebywających w dokach: 1
+Statki cywilne które opóściły port: 5
+Statki towarowe które wypłynęły w morze: 3
+Statki towarowe oczekujące na wejście do portu: 3
+
+Day 194.
+Dzienny przychód: 16047
+Zwodowane statki cywilne: 4
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 50
+Ilość statków towarowych przebywających w dokach: 2
+Statki cywilne które opóściły port: 5
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 1
+
+Day 195.
+Ten dzień nie był szczęśliwy dla marynarzy...
+W związku z zajściem poważnego wypadku na morzu, port został zamknięty, a podjęcie akcji ratunkowej przez służby kosztowało port: -125
+
+Day 196.
+Dzienny przychód: 9316
+Zwodowane statki cywilne: 3
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 49
+Ilość statków towarowych przebywających w dokach: 3
+Statki cywilne które opóściły port: 4
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 197.
+Dzienny przychód: 5404
+Zwodowane statki cywilne: 7
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 52
+Ilość statków towarowych przebywających w dokach: 0
+Statki cywilne które opóściły port: 4
+Statki towarowe które wypłynęły w morze: 3
+Statki towarowe oczekujące na wejście do portu: 1
+
+Day 198.
+Dzienny przychód: 21556
+Zwodowane statki cywilne: 7
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 54
+Ilość statków towarowych przebywających w dokach: 2
+Statki cywilne które opóściły port: 5
+Statki towarowe które wypłynęły w morze: 0
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 199.
+Dzienny przychód: 20828
+Zwodowane statki cywilne: 7
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 53
+Ilość statków towarowych przebywających w dokach: 4
+Statki cywilne które opóściły port: 8
+Statki towarowe które wypłynęły w morze: 0
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 200.
+Dzienny przychód: 4636
+Zwodowane statki cywilne: 5
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 54
+Ilość statków towarowych przebywających w dokach: 1
+Statki cywilne które opóściły port: 4
+Statki towarowe które wypłynęły w morze: 3
+Statki towarowe oczekujące na wejście do portu: 1
+
+Day 201.
+Dzienny przychód: 14089
+Zwodowane statki cywilne: 4
+Statki towarowe, które przybyły do portu: 1
+Ilość statków cywilnych przebywających w porcie: 55
+Ilość statków towarowych przebywających w dokach: 2
+Statki cywilne które opóściły port: 3
+Statki towarowe które wypłynęły w morze: 0
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 202.
+Dzienny przychód: 15161
+Zwodowane statki cywilne: 5
+Statki towarowe, które przybyły do portu: 1
+Ilość statków cywilnych przebywających w porcie: 57
+Ilość statków towarowych przebywających w dokach: 2
+Statki cywilne które opóściły port: 3
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 203.
+Dzienny przychód: 18676
+Zwodowane statki cywilne: 7
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 58
+Ilość statków towarowych przebywających w dokach: 4
+Statki cywilne które opóściły port: 6
+Statki towarowe które wypłynęły w morze: 0
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 204.
+Dzienny przychód: 12672
+Zwodowane statki cywilne: 6
+Statki towarowe, które przybyły do portu: 1
+Ilość statków cywilnych przebywających w porcie: 60
+Ilość statków towarowych przebywających w dokach: 3
+Statki cywilne które opóściły port: 4
+Statki towarowe które wypłynęły w morze: 2
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 205.
+Dzienny przychód: 13598
+Zwodowane statki cywilne: 3
+Statki towarowe, które przybyły do portu: 1
+Ilość statków cywilnych przebywających w porcie: 56
+Ilość statków towarowych przebywających w dokach: 2
+Statki cywilne które opóściły port: 7
+Statki towarowe które wypłynęły w morze: 2
+Statki towarowe oczekujące na wejście do portu: 1
+
+Day 206.
+Dzienny przychód: 11651
+Zwodowane statki cywilne: 3
+Statki towarowe, które przybyły do portu: 1
+Ilość statków cywilnych przebywających w porcie: 53
+Ilość statków towarowych przebywających w dokach: 2
+Statki cywilne które opóściły port: 6
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 207.
+Dzienny przychód: 18944
+Zwodowane statki cywilne: 7
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 54
+Ilość statków towarowych przebywających w dokach: 4
+Statki cywilne które opóściły port: 6
+Statki towarowe które wypłynęły w morze: 0
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 208.
+Dzienny przychód: 9968
+Zwodowane statki cywilne: 4
+Statki towarowe, które przybyły do portu: 1
+Ilość statków cywilnych przebywających w porcie: 56
+Ilość statków towarowych przebywających w dokach: 3
+Statki cywilne które opóściły port: 2
+Statki towarowe które wypłynęły w morze: 2
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 209.
+Dzienny przychód: 3488
+Zwodowane statki cywilne: 4
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 55
+Ilość statków towarowych przebywających w dokach: 1
+Statki cywilne które opóściły port: 5
+Statki towarowe które wypłynęły w morze: 2
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 210.
+Dzienny przychód: 4733
+Zwodowane statki cywilne: 5
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 53
+Ilość statków towarowych przebywających w dokach: 0
+Statki cywilne które opóściły port: 7
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 211.
+Dzienny przychód: 4866
+Zwodowane statki cywilne: 6
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 57
+Ilość statków towarowych przebywających w dokach: 0
+Statki cywilne które opóściły port: 2
+Statki towarowe które wypłynęły w morze: 0
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 212.
+Dzienny przychód: 8337
+Zwodowane statki cywilne: 4
+Statki towarowe, które przybyły do portu: 1
+Ilość statków cywilnych przebywających w porcie: 59
+Ilość statków towarowych przebywających w dokach: 1
+Statki cywilne które opóściły port: 2
+Statki towarowe które wypłynęły w morze: 0
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 213.
+Dzienny przychód: 2381
+Zwodowane statki cywilne: 3
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 58
+Ilość statków towarowych przebywających w dokach: 0
+Statki cywilne które opóściły port: 4
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 214.
+Dzienny przychód: 20042
+Zwodowane statki cywilne: 5
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 56
+Ilość statków towarowych przebywających w dokach: 2
+Statki cywilne które opóściły port: 7
+Statki towarowe które wypłynęły w morze: 0
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 215.
+Dzienny przychód: 18645
+Zwodowane statki cywilne: 4
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 51
+Ilość statków towarowych przebywających w dokach: 4
+Statki cywilne które opóściły port: 9
+Statki towarowe które wypłynęły w morze: 0
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 216.
+Dzienny przychód: 13570
+Zwodowane statki cywilne: 7
+Statki towarowe, które przybyły do portu: 1
+Ilość statków cywilnych przebywających w porcie: 50
+Ilość statków towarowych przebywających w dokach: 4
+Statki cywilne które opóściły port: 8
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 217.
+Ten dzień nie był szczęśliwy dla marynarzy...
+W związku z zajściem poważnego wypadku na morzu, port został zamknięty, a podjęcie akcji ratunkowej przez służby kosztowało port: -125
+
+Day 218.
+Dzienny przychód: 5230
+Zwodowane statki cywilne: 7
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 54
+Ilość statków towarowych przebywających w dokach: 1
+Statki cywilne które opóściły port: 3
+Statki towarowe które wypłynęły w morze: 3
+Statki towarowe oczekujące na wejście do portu: 2
+
+Day 219.
+Dzienny przychód: 19194
+Zwodowane statki cywilne: 3
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 51
+Ilość statków towarowych przebywających w dokach: 2
+Statki cywilne które opóściły port: 6
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 220.
+Ten dzień nie był szczęśliwy dla marynarzy...
+W związku z zajściem poważnego wypadku na morzu, port został zamknięty, a podjęcie akcji ratunkowej przez służby kosztowało port: -125
+
+Day 221.
+Dzienny przychód: 22264
+Zwodowane statki cywilne: 7
+Statki towarowe, które przybyły do portu: 3
+Ilość statków cywilnych przebywających w porcie: 54
+Ilość statków towarowych przebywających w dokach: 5
+Statki cywilne które opóściły port: 4
+Statki towarowe które wypłynęły w morze: 0
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 222.
+Ten dzień nie był szczęśliwy dla marynarzy...
+W związku z zajściem poważnego wypadku na morzu, port został zamknięty, a podjęcie akcji ratunkowej przez służby kosztowało port: -125
+
+Day 223.
+Dzienny przychód: 5326
+Zwodowane statki cywilne: 6
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 58
+Ilość statków towarowych przebywających w dokach: 2
+Statki cywilne które opóściły port: 2
+Statki towarowe które wypłynęły w morze: 3
+Statki towarowe oczekujące na wejście do portu: 4
+
+Day 224.
+Dzienny przychód: 10817
+Zwodowane statki cywilne: 5
+Statki towarowe, które przybyły do portu: 1
+Ilość statków cywilnych przebywających w porcie: 56
+Ilość statków towarowych przebywających w dokach: 1
+Statki cywilne które opóściły port: 7
+Statki towarowe które wypłynęły w morze: 2
+Statki towarowe oczekujące na wejście do portu: 4
+
+Day 225.
+Dzienny przychód: 14804
+Zwodowane statki cywilne: 5
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 53
+Ilość statków towarowych przebywających w dokach: 2
+Statki cywilne które opóściły port: 8
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 3
+
+Day 226.
+Dzienny przychód: 25441
+Zwodowane statki cywilne: 7
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 54
+Ilość statków towarowych przebywających w dokach: 3
+Statki cywilne które opóściły port: 6
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 1
+
+Day 227.
+Dzienny przychód: 19147
+Zwodowane statki cywilne: 5
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 53
+Ilość statków towarowych przebywających w dokach: 4
+Statki cywilne które opóściły port: 6
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 228.
+Dzienny przychód: 5443
+Zwodowane statki cywilne: 7
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 54
+Ilość statków towarowych przebywających w dokach: 2
+Statki cywilne które opóściły port: 6
+Statki towarowe które wypłynęły w morze: 2
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 229.
+Dzienny przychód: 2789
+Zwodowane statki cywilne: 3
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 55
+Ilość statków towarowych przebywających w dokach: 1
+Statki cywilne które opóściły port: 2
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 230.
+Dzienny przychód: 2940
+Zwodowane statki cywilne: 3
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 54
+Ilość statków towarowych przebywających w dokach: 0
+Statki cywilne które opóściły port: 4
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 231.
+Dzienny przychód: 7281
+Zwodowane statki cywilne: 3
+Statki towarowe, które przybyły do portu: 1
+Ilość statków cywilnych przebywających w porcie: 51
+Ilość statków towarowych przebywających w dokach: 1
+Statki cywilne które opóściły port: 6
+Statki towarowe które wypłynęły w morze: 0
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 232.
+Dzienny przychód: 11181
+Zwodowane statki cywilne: 3
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 47
+Ilość statków towarowych przebywających w dokach: 2
+Statki cywilne które opóściły port: 7
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 233.
+Dzienny przychód: 11384
+Zwodowane statki cywilne: 3
+Statki towarowe, które przybyły do portu: 1
+Ilość statków cywilnych przebywających w porcie: 49
+Ilość statków towarowych przebywających w dokach: 1
+Statki cywilne które opóściły port: 1
+Statki towarowe które wypłynęły w morze: 2
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 234.
+Dzienny przychód: 20766
+Zwodowane statki cywilne: 5
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 48
+Ilość statków towarowych przebywających w dokach: 3
+Statki cywilne które opóściły port: 6
+Statki towarowe które wypłynęły w morze: 0
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 235.
+Dzienny przychód: 3788
+Zwodowane statki cywilne: 5
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 48
+Ilość statków towarowych przebywających w dokach: 3
+Statki cywilne które opóściły port: 5
+Statki towarowe które wypłynęły w morze: 0
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 236.
+Ten dzień nie był szczęśliwy dla marynarzy...
+W związku z zajściem poważnego wypadku na morzu, port został zamknięty, a podjęcie akcji ratunkowej przez służby kosztowało port: -125
+
+Day 237.
+Dzienny przychód: 9401
+Zwodowane statki cywilne: 5
+Statki towarowe, które przybyły do portu: 1
+Ilość statków cywilnych przebywających w porcie: 48
+Ilość statków towarowych przebywających w dokach: 2
+Statki cywilne które opóściły port: 5
+Statki towarowe które wypłynęły w morze: 2
+Statki towarowe oczekujące na wejście do portu: 3
+
+Day 238.
+Dzienny przychód: 14064
+Zwodowane statki cywilne: 6
+Statki towarowe, które przybyły do portu: 1
+Ilość statków cywilnych przebywających w porcie: 46
+Ilość statków towarowych przebywających w dokach: 1
+Statki cywilne które opóściły port: 8
+Statki towarowe które wypłynęły w morze: 2
+Statki towarowe oczekujące na wejście do portu: 3
+
+Day 239.
+Dzienny przychód: 15380
+Zwodowane statki cywilne: 4
+Statki towarowe, które przybyły do portu: 3
+Ilość statków cywilnych przebywających w porcie: 44
+Ilość statków towarowych przebywających w dokach: 4
+Statki cywilne które opóściły port: 6
+Statki towarowe które wypłynęły w morze: 0
+Statki towarowe oczekujące na wejście do portu: 1
+
+Day 240.
+Dzienny przychód: 5418
+Zwodowane statki cywilne: 6
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 48
+Ilość statków towarowych przebywających w dokach: 1
+Statki cywilne które opóściły port: 2
+Statki towarowe które wypłynęły w morze: 3
+Statki towarowe oczekujące na wejście do portu: 2
+
+Day 241.
+Dzienny przychód: 21930
+Zwodowane statki cywilne: 4
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 46
+Ilość statków towarowych przebywających w dokach: 2
+Statki cywilne które opóściły port: 6
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 242.
+Dzienny przychód: 3543
+Zwodowane statki cywilne: 4
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 45
+Ilość statków towarowych przebywających w dokach: 2
+Statki cywilne które opóściły port: 5
+Statki towarowe które wypłynęły w morze: 0
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 243.
+Dzienny przychód: 12556
+Zwodowane statki cywilne: 3
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 46
+Ilość statków towarowych przebywających w dokach: 3
+Statki cywilne które opóściły port: 2
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 244.
+Dzienny przychód: 14099
+Zwodowane statki cywilne: 3
+Statki towarowe, które przybyły do portu: 1
+Ilość statków cywilnych przebywających w porcie: 43
+Ilość statków towarowych przebywających w dokach: 2
+Statki cywilne które opóściły port: 6
+Statki towarowe które wypłynęły w morze: 2
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 245.
+Dzienny przychód: 20348
+Zwodowane statki cywilne: 7
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 47
+Ilość statków towarowych przebywających w dokach: 3
+Statki cywilne które opóściły port: 3
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 246.
+Dzienny przychód: 2784
+Zwodowane statki cywilne: 3
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 45
+Ilość statków towarowych przebywających w dokach: 2
+Statki cywilne które opóściły port: 5
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 247.
+Ten dzień nie był szczęśliwy dla marynarzy...
+W związku z zajściem poważnego wypadku na morzu, port został zamknięty, a podjęcie akcji ratunkowej przez służby kosztowało port: -125
+
+Day 248.
+Ten dzień nie był szczęśliwy dla marynarzy...
+W związku z zajściem poważnego wypadku na morzu, port został zamknięty, a podjęcie akcji ratunkowej przez służby kosztowało port: -125
+
+Day 249.
+Dzienny przychód: 11247
+Zwodowane statki cywilne: 7
+Statki towarowe, które przybyły do portu: 1
+Ilość statków cywilnych przebywających w porcie: 46
+Ilość statków towarowych przebywających w dokach: 1
+Statki cywilne które opóściły port: 6
+Statki towarowe które wypłynęły w morze: 2
+Statki towarowe oczekujące na wejście do portu: 1
+
+Day 250.
+Dzienny przychód: 11974
+Zwodowane statki cywilne: 5
+Statki towarowe, które przybyły do portu: 1
+Ilość statków cywilnych przebywających w porcie: 50
+Ilość statków towarowych przebywających w dokach: 1
+Statki cywilne które opóściły port: 1
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 251.
+Dzienny przychód: 3845
+Zwodowane statki cywilne: 4
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 50
+Ilość statków towarowych przebywających w dokach: 1
+Statki cywilne które opóściły port: 4
+Statki towarowe które wypłynęły w morze: 0
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 252.
+Dzienny przychód: 5737
+Zwodowane statki cywilne: 6
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 49
+Ilość statków towarowych przebywających w dokach: 0
+Statki cywilne które opóściły port: 7
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 253.
+Dzienny przychód: 4275
+Zwodowane statki cywilne: 5
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 52
+Ilość statków towarowych przebywających w dokach: 0
+Statki cywilne które opóściły port: 2
+Statki towarowe które wypłynęły w morze: 0
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 254.
+Ten dzień nie był szczęśliwy dla marynarzy...
+W związku z zajściem poważnego wypadku na morzu, port został zamknięty, a podjęcie akcji ratunkowej przez służby kosztowało port: -125
+
+Day 255.
+Dzienny przychód: 16076
+Zwodowane statki cywilne: 3
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 51
+Ilość statków towarowych przebywających w dokach: 2
+Statki cywilne które opóściły port: 4
+Statki towarowe które wypłynęły w morze: 0
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 256.
+Dzienny przychód: 5443
+Zwodowane statki cywilne: 6
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 57
+Ilość statków towarowych przebywających w dokach: 1
+Statki cywilne które opóściły port: 0
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 257.
+Dzienny przychód: 9999
+Zwodowane statki cywilne: 7
+Statki towarowe, które przybyły do portu: 1
+Ilość statków cywilnych przebywających w porcie: 59
+Ilość statków towarowych przebywających w dokach: 1
+Statki cywilne które opóściły port: 5
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 258.
+Dzienny przychód: 4937
+Zwodowane statki cywilne: 5
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 58
+Ilość statków towarowych przebywających w dokach: 0
+Statki cywilne które opóściły port: 6
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 259.
+Dzienny przychód: 22482
+Zwodowane statki cywilne: 4
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 57
+Ilość statków towarowych przebywających w dokach: 2
+Statki cywilne które opóściły port: 5
+Statki towarowe które wypłynęły w morze: 0
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 260.
+Ten dzień nie był szczęśliwy dla marynarzy...
+W związku z zajściem poważnego wypadku na morzu, port został zamknięty, a podjęcie akcji ratunkowej przez służby kosztowało port: -800
+
+Day 261.
+Dzienny przychód: 28777
+Zwodowane statki cywilne: 4
+Statki towarowe, które przybyły do portu: 3
+Ilość statków cywilnych przebywających w porcie: 55
+Ilość statków towarowych przebywających w dokach: 5
+Statki cywilne które opóściły port: 6
+Statki towarowe które wypłynęły w morze: 0
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 262.
+Dzienny przychód: 3120
+Zwodowane statki cywilne: 4
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 57
+Ilość statków towarowych przebywających w dokach: 3
+Statki cywilne które opóściły port: 2
+Statki towarowe które wypłynęły w morze: 2
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 263.
+Dzienny przychód: 11203
+Zwodowane statki cywilne: 5
+Statki towarowe, które przybyły do portu: 1
+Ilość statków cywilnych przebywających w porcie: 55
+Ilość statków towarowych przebywających w dokach: 3
+Statki cywilne które opóściły port: 7
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 264.
+Dzienny przychód: 1888
+Zwodowane statki cywilne: 3
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 54
+Ilość statków towarowych przebywających w dokach: 1
+Statki cywilne które opóściły port: 4
+Statki towarowe które wypłynęły w morze: 2
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 265.
+Dzienny przychód: 14174
+Zwodowane statki cywilne: 3
+Statki towarowe, które przybyły do portu: 1
+Ilość statków cywilnych przebywających w porcie: 52
+Ilość statków towarowych przebywających w dokach: 1
+Statki cywilne które opóściły port: 5
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 266.
+Dzienny przychód: 19353
+Zwodowane statki cywilne: 7
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 53
+Ilość statków towarowych przebywających w dokach: 3
+Statki cywilne które opóściły port: 6
+Statki towarowe które wypłynęły w morze: 0
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 267.
+Dzienny przychód: 18203
+Zwodowane statki cywilne: 3
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 50
+Ilość statków towarowych przebywających w dokach: 5
+Statki cywilne które opóściły port: 6
+Statki towarowe które wypłynęły w morze: 0
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 268.
+Dzienny przychód: 5652
+Zwodowane statki cywilne: 7
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 52
+Ilość statków towarowych przebywających w dokach: 2
+Statki cywilne które opóściły port: 5
+Statki towarowe które wypłynęły w morze: 3
+Statki towarowe oczekujące na wejście do portu: 2
+
+Day 269.
+Dzienny przychód: 19524
+Zwodowane statki cywilne: 6
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 51
+Ilość statków towarowych przebywających w dokach: 3
+Statki cywilne które opóściły port: 7
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 2
+
+Day 270.
+Ten dzień nie był szczęśliwy dla marynarzy...
+W związku z zajściem poważnego wypadku na morzu, port został zamknięty, a podjęcie akcji ratunkowej przez służby kosztowało port: -800
+
+Day 271.
+Dzienny przychód: 12427
+Zwodowane statki cywilne: 4
+Statki towarowe, które przybyły do portu: 1
+Ilość statków cywilnych przebywających w porcie: 50
+Ilość statków towarowych przebywających w dokach: 2
+Statki cywilne które opóściły port: 5
+Statki towarowe które wypłynęły w morze: 2
+Statki towarowe oczekujące na wejście do portu: 1
+
+Day 272.
+Dzienny przychód: 22880
+Zwodowane statki cywilne: 3
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 49
+Ilość statków towarowych przebywających w dokach: 3
+Statki cywilne które opóściły port: 4
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 1
+
+Day 273.
+Dzienny przychód: 24963
+Zwodowane statki cywilne: 3
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 48
+Ilość statków towarowych przebywających w dokach: 4
+Statki cywilne które opóściły port: 4
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 1
+
+Day 274.
+Dzienny przychód: 10292
+Zwodowane statki cywilne: 3
+Statki towarowe, które przybyły do portu: 1
+Ilość statków cywilnych przebywających w porcie: 43
+Ilość statków towarowych przebywających w dokach: 5
+Statki cywilne które opóściły port: 8
+Statki towarowe które wypłynęły w morze: 0
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 275.
+Dzienny przychód: 4650
+Zwodowane statki cywilne: 6
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 46
+Ilość statków towarowych przebywających w dokach: 3
+Statki cywilne które opóściły port: 3
+Statki towarowe które wypłynęły w morze: 2
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 276.
+Dzienny przychód: 3256
+Zwodowane statki cywilne: 3
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 45
+Ilość statków towarowych przebywających w dokach: 0
+Statki cywilne które opóściły port: 4
+Statki towarowe które wypłynęły w morze: 3
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 277.
+Dzienny przychód: 3205
+Zwodowane statki cywilne: 3
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 42
+Ilość statków towarowych przebywających w dokach: 0
+Statki cywilne które opóściły port: 6
+Statki towarowe które wypłynęły w morze: 0
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 278.
+Dzienny przychód: 7322
+Zwodowane statki cywilne: 7
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 47
+Ilość statków towarowych przebywających w dokach: 0
+Statki cywilne które opóściły port: 2
+Statki towarowe które wypłynęły w morze: 0
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 279.
+Dzienny przychód: 4830
+Zwodowane statki cywilne: 5
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 50
+Ilość statków towarowych przebywających w dokach: 0
+Statki cywilne które opóściły port: 2
+Statki towarowe które wypłynęły w morze: 0
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 280.
+Dzienny przychód: 3989
+Zwodowane statki cywilne: 5
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 50
+Ilość statków towarowych przebywających w dokach: 0
+Statki cywilne które opóściły port: 5
+Statki towarowe które wypłynęły w morze: 0
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 281.
+Dzienny przychód: 3450
+Zwodowane statki cywilne: 4
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 51
+Ilość statków towarowych przebywających w dokach: 0
+Statki cywilne które opóściły port: 3
+Statki towarowe które wypłynęły w morze: 0
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 282.
+Dzienny przychód: 2383
+Zwodowane statki cywilne: 3
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 51
+Ilość statków towarowych przebywających w dokach: 0
+Statki cywilne które opóściły port: 3
+Statki towarowe które wypłynęły w morze: 0
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 283.
+Dzienny przychód: 18387
+Zwodowane statki cywilne: 5
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 49
+Ilość statków towarowych przebywających w dokach: 2
+Statki cywilne które opóściły port: 7
+Statki towarowe które wypłynęły w morze: 0
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 284.
+Dzienny przychód: 20960
+Zwodowane statki cywilne: 4
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 51
+Ilość statków towarowych przebywających w dokach: 3
+Statki cywilne które opóściły port: 2
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 285.
+Dzienny przychód: 5851
+Zwodowane statki cywilne: 7
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 54
+Ilość statków towarowych przebywających w dokach: 2
+Statki cywilne które opóściły port: 4
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 286.
+Dzienny przychód: 4568
+Zwodowane statki cywilne: 5
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 52
+Ilość statków towarowych przebywających w dokach: 1
+Statki cywilne które opóściły port: 7
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 287.
+Dzienny przychód: 14563
+Zwodowane statki cywilne: 5
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 54
+Ilość statków towarowych przebywających w dokach: 2
+Statki cywilne które opóściły port: 3
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 288.
+Dzienny przychód: 5819
+Zwodowane statki cywilne: 7
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 58
+Ilość statków towarowych przebywających w dokach: 1
+Statki cywilne które opóściły port: 3
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 289.
+Dzienny przychód: 2741
+Zwodowane statki cywilne: 3
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 57
+Ilość statków towarowych przebywających w dokach: 0
+Statki cywilne które opóściły port: 4
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 290.
+Dzienny przychód: 2411
+Zwodowane statki cywilne: 3
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 59
+Ilość statków towarowych przebywających w dokach: 0
+Statki cywilne które opóściły port: 1
+Statki towarowe które wypłynęły w morze: 0
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 291.
+Dzienny przychód: 4571
+Zwodowane statki cywilne: 5
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 56
+Ilość statków towarowych przebywających w dokach: 0
+Statki cywilne które opóściły port: 8
+Statki towarowe które wypłynęły w morze: 0
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 292.
+Dzienny przychód: 13178
+Zwodowane statki cywilne: 6
+Statki towarowe, które przybyły do portu: 1
+Ilość statków cywilnych przebywających w porcie: 60
+Ilość statków towarowych przebywających w dokach: 1
+Statki cywilne które opóściły port: 2
+Statki towarowe które wypłynęły w morze: 0
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 293.
+Ten dzień nie był szczęśliwy dla marynarzy...
+W związku z zajściem poważnego wypadku na morzu, port został zamknięty, a podjęcie akcji ratunkowej przez służby kosztowało port: -800
+
+Day 294.
+Dzienny przychód: 23574
+Zwodowane statki cywilne: 6
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 53
+Ilość statków towarowych przebywających w dokach: 3
+Statki cywilne które opóściły port: 13
+Statki towarowe które wypłynęły w morze: 0
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 295.
+Dzienny przychód: 19250
+Zwodowane statki cywilne: 4
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 51
+Ilość statków towarowych przebywających w dokach: 4
+Statki cywilne które opóściły port: 6
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 296.
+Dzienny przychód: 12767
+Zwodowane statki cywilne: 7
+Statki towarowe, które przybyły do portu: 1
+Ilość statków cywilnych przebywających w porcie: 54
+Ilość statków towarowych przebywających w dokach: 3
+Statki cywilne które opóściły port: 4
+Statki towarowe które wypłynęły w morze: 2
+Statki towarowe oczekujące na wejście do portu: 1
+
+Day 297.
+Dzienny przychód: 8137
+Zwodowane statki cywilne: 6
+Statki towarowe, które przybyły do portu: 1
+Ilość statków cywilnych przebywających w porcie: 59
+Ilość statków towarowych przebywających w dokach: 2
+Statki cywilne które opóściły port: 1
+Statki towarowe które wypłynęły w morze: 2
+Statki towarowe oczekujące na wejście do portu: 2
+
+Day 298.
+Dzienny przychód: 13840
+Zwodowane statki cywilne: 3
+Statki towarowe, które przybyły do portu: 1
+Ilość statków cywilnych przebywających w porcie: 53
+Ilość statków towarowych przebywających w dokach: 1
+Statki cywilne które opóściły port: 9
+Statki towarowe które wypłynęły w morze: 2
+Statki towarowe oczekujące na wejście do portu: 3
+
+Day 299.
+Dzienny przychód: 26007
+Zwodowane statki cywilne: 6
+Statki towarowe, które przybyły do portu: 3
+Ilość statków cywilnych przebywających w porcie: 53
+Ilość statków towarowych przebywających w dokach: 4
+Statki cywilne które opóściły port: 6
+Statki towarowe które wypłynęły w morze: 0
+Statki towarowe oczekujące na wejście do portu: 2
+
+Day 300.
+Dzienny przychód: 23666
+Zwodowane statki cywilne: 5
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 50
+Ilość statków towarowych przebywających w dokach: 5
+Statki cywilne które opóściły port: 8
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 2
+
+Day 301.
+Dzienny przychód: 13292
+Zwodowane statki cywilne: 3
+Statki towarowe, które przybyły do portu: 1
+Ilość statków cywilnych przebywających w porcie: 52
+Ilość statków towarowych przebywających w dokach: 4
+Statki cywilne które opóściły port: 1
+Statki towarowe które wypłynęły w morze: 2
+Statki towarowe oczekujące na wejście do portu: 3
+
+Day 302.
+Dzienny przychód: 17146
+Zwodowane statki cywilne: 4
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 53
+Ilość statków towarowych przebywających w dokach: 5
+Statki cywilne które opóściły port: 3
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 3
+
+Day 303.
+Dzienny przychód: 4595
+Zwodowane statki cywilne: 5
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 57
+Ilość statków towarowych przebywających w dokach: 2
+Statki cywilne które opóściły port: 1
+Statki towarowe które wypłynęły w morze: 3
+Statki towarowe oczekujące na wejście do portu: 4
+
+Day 304.
+Dzienny przychód: 15831
+Zwodowane statki cywilne: 5
+Statki towarowe, które przybyły do portu: 1
+Ilość statków cywilnych przebywających w porcie: 55
+Ilość statków towarowych przebywających w dokach: 1
+Statki cywilne które opóściły port: 7
+Statki towarowe które wypłynęły w morze: 2
+Statki towarowe oczekujące na wejście do portu: 3
+
+Day 305.
+Dzienny przychód: 29728
+Zwodowane statki cywilne: 6
+Statki towarowe, które przybyły do portu: 3
+Ilość statków cywilnych przebywających w porcie: 59
+Ilość statków towarowych przebywających w dokach: 4
+Statki cywilne które opóściły port: 2
+Statki towarowe które wypłynęły w morze: 0
+Statki towarowe oczekujące na wejście do portu: 2
+
+Day 306.
+Dzienny przychód: 16193
+Zwodowane statki cywilne: 3
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 54
+Ilość statków towarowych przebywających w dokach: 5
+Statki cywilne które opóściły port: 8
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 1
+
+Day 307.
+Dzienny przychód: 12724
+Zwodowane statki cywilne: 6
+Statki towarowe, które przybyły do portu: 1
+Ilość statków cywilnych przebywających w porcie: 55
+Ilość statków towarowych przebywających w dokach: 4
+Statki cywilne które opóściły port: 5
+Statki towarowe które wypłynęły w morze: 2
+Statki towarowe oczekujące na wejście do portu: 1
+
+Day 308.
+Dzienny przychód: 9644
+Zwodowane statki cywilne: 6
+Statki towarowe, które przybyły do portu: 1
+Ilość statków cywilnych przebywających w porcie: 56
+Ilość statków towarowych przebywających w dokach: 3
+Statki cywilne które opóściły port: 5
+Statki towarowe które wypłynęły w morze: 2
+Statki towarowe oczekujące na wejście do portu: 2
+
+Day 309.
+Dzienny przychód: 3809
+Zwodowane statki cywilne: 5
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 55
+Ilość statków towarowych przebywających w dokach: 0
+Statki cywilne które opóściły port: 6
+Statki towarowe które wypłynęły w morze: 3
+Statki towarowe oczekujące na wejście do portu: 3
+
+Day 310.
+Dzienny przychód: 29888
+Zwodowane statki cywilne: 4
+Statki towarowe, które przybyły do portu: 3
+Ilość statków cywilnych przebywających w porcie: 53
+Ilość statków towarowych przebywających w dokach: 3
+Statki cywilne które opóściły port: 6
+Statki towarowe które wypłynęły w morze: 0
+Statki towarowe oczekujące na wejście do portu: 1
+
+Day 311.
+Dzienny przychód: 23474
+Zwodowane statki cywilne: 4
+Statki towarowe, które przybyły do portu: 3
+Ilość statków cywilnych przebywających w porcie: 55
+Ilość statków towarowych przebywających w dokach: 6
+Statki cywilne które opóściły port: 2
+Statki towarowe które wypłynęły w morze: 0
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 312.
+Dzienny przychód: 3324
+Zwodowane statki cywilne: 4
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 56
+Ilość statków towarowych przebywających w dokach: 3
+Statki cywilne które opóściły port: 3
+Statki towarowe które wypłynęły w morze: 3
+Statki towarowe oczekujące na wejście do portu: 1
+
+Day 313.
+Dzienny przychód: 11767
+Zwodowane statki cywilne: 7
+Statki towarowe, które przybyły do portu: 1
+Ilość statków cywilnych przebywających w porcie: 54
+Ilość statków towarowych przebywających w dokach: 2
+Statki cywilne które opóściły port: 9
+Statki towarowe które wypłynęły w morze: 2
+Statki towarowe oczekujące na wejście do portu: 1
+
+Day 314.
+Dzienny przychód: 12057
+Zwodowane statki cywilne: 3
+Statki towarowe, które przybyły do portu: 1
+Ilość statków cywilnych przebywających w porcie: 54
+Ilość statków towarowych przebywających w dokach: 1
+Statki cywilne które opóściły port: 3
+Statki towarowe które wypłynęły w morze: 2
+Statki towarowe oczekujące na wejście do portu: 2
+
+Day 315.
+Dzienny przychód: 21651
+Zwodowane statki cywilne: 7
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 58
+Ilość statków towarowych przebywających w dokach: 3
+Statki cywilne które opóściły port: 3
+Statki towarowe które wypłynęły w morze: 0
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 316.
+Dzienny przychód: 9787
+Zwodowane statki cywilne: 3
+Statki towarowe, które przybyły do portu: 1
+Ilość statków cywilnych przebywających w porcie: 58
+Ilość statków towarowych przebywających w dokach: 3
+Statki cywilne które opóściły port: 3
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 317.
+Dzienny przychód: 3297
+Zwodowane statki cywilne: 4
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 47
+Ilość statków towarowych przebywających w dokach: 2
+Statki cywilne które opóściły port: 15
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 318.
+Dzienny przychód: 9209
+Zwodowane statki cywilne: 3
+Statki towarowe, które przybyły do portu: 1
+Ilość statków cywilnych przebywających w porcie: 47
+Ilość statków towarowych przebywających w dokach: 1
+Statki cywilne które opóściły port: 3
+Statki towarowe które wypłynęły w morze: 2
+Statki towarowe oczekujące na wejście do portu: 1
+
+Day 319.
+Dzienny przychód: 24646
+Zwodowane statki cywilne: 4
+Statki towarowe, które przybyły do portu: 3
+Ilość statków cywilnych przebywających w porcie: 44
+Ilość statków towarowych przebywających w dokach: 4
+Statki cywilne które opóściły port: 7
+Statki towarowe które wypłynęły w morze: 0
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 320.
+Dzienny przychód: 10951
+Zwodowane statki cywilne: 5
+Statki towarowe, które przybyły do portu: 1
+Ilość statków cywilnych przebywających w porcie: 46
+Ilość statków towarowych przebywających w dokach: 3
+Statki cywilne które opóściły port: 3
+Statki towarowe które wypłynęły w morze: 2
+Statki towarowe oczekujące na wejście do portu: 1
+
+Day 321.
+Dzienny przychód: 12909
+Zwodowane statki cywilne: 4
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 45
+Ilość statków towarowych przebywających w dokach: 4
+Statki cywilne które opóściły port: 5
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 322.
+Dzienny przychód: 4234
+Zwodowane statki cywilne: 5
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 46
+Ilość statków towarowych przebywających w dokach: 1
+Statki cywilne które opóściły port: 4
+Statki towarowe które wypłynęły w morze: 3
+Statki towarowe oczekujące na wejście do portu: 2
+
+Day 323.
+Dzienny przychód: 14911
+Zwodowane statki cywilne: 7
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 48
+Ilość statków towarowych przebywających w dokach: 2
+Statki cywilne które opóściły port: 5
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 1
+
+Day 324.
+Dzienny przychód: 11156
+Zwodowane statki cywilne: 4
+Statki towarowe, które przybyły do portu: 1
+Ilość statków cywilnych przebywających w porcie: 46
+Ilość statków towarowych przebywających w dokach: 1
+Statki cywilne które opóściły port: 6
+Statki towarowe które wypłynęły w morze: 2
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 325.
+Dzienny przychód: 14983
+Zwodowane statki cywilne: 3
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 45
+Ilość statków towarowych przebywających w dokach: 3
+Statki cywilne które opóściły port: 4
+Statki towarowe które wypłynęły w morze: 0
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 326.
+Dzienny przychód: 12380
+Zwodowane statki cywilne: 3
+Statki towarowe, które przybyły do portu: 1
+Ilość statków cywilnych przebywających w porcie: 44
+Ilość statków towarowych przebywających w dokach: 2
+Statki cywilne które opóściły port: 4
+Statki towarowe które wypłynęły w morze: 2
+Statki towarowe oczekujące na wejście do portu: 1
+
+Day 327.
+Dzienny przychód: 8905
+Zwodowane statki cywilne: 3
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 46
+Ilość statków towarowych przebywających w dokach: 3
+Statki cywilne które opóściły port: 1
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 1
+
+Day 328.
+Ten dzień nie był szczęśliwy dla marynarzy...
+W związku z zajściem poważnego wypadku na morzu, port został zamknięty, a podjęcie akcji ratunkowej przez służby kosztowało port: -125
+
+Day 329.
+Dzienny przychód: 10615
+Zwodowane statki cywilne: 6
+Statki towarowe, które przybyły do portu: 1
+Ilość statków cywilnych przebywających w porcie: 51
+Ilość statków towarowych przebywających w dokach: 2
+Statki cywilne które opóściły port: 1
+Statki towarowe które wypłynęły w morze: 2
+Statki towarowe oczekujące na wejście do portu: 2
+
+Day 330.
+Dzienny przychód: 7351
+Zwodowane statki cywilne: 5
+Statki towarowe, które przybyły do portu: 1
+Ilość statków cywilnych przebywających w porcie: 52
+Ilość statków towarowych przebywających w dokach: 1
+Statki cywilne które opóściły port: 4
+Statki towarowe które wypłynęły w morze: 2
+Statki towarowe oczekujące na wejście do portu: 2
+
+Day 331.
+Dzienny przychód: 12574
+Zwodowane statki cywilne: 3
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 46
+Ilość statków towarowych przebywających w dokach: 2
+Statki cywilne które opóściły port: 9
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 1
+
+Day 332.
+Dzienny przychód: 12945
+Zwodowane statki cywilne: 7
+Statki towarowe, które przybyły do portu: 1
+Ilość statków cywilnych przebywających w porcie: 47
+Ilość statków towarowych przebywających w dokach: 1
+Statki cywilne które opóściły port: 6
+Statki towarowe które wypłynęły w morze: 2
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 333.
+Dzienny przychód: 16233
+Zwodowane statki cywilne: 7
+Statki towarowe, które przybyły do portu: 1
+Ilość statków cywilnych przebywających w porcie: 52
+Ilość statków towarowych przebywających w dokach: 2
+Statki cywilne które opóściły port: 2
+Statki towarowe które wypłynęły w morze: 0
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 334.
+Dzienny przychód: 18240
+Zwodowane statki cywilne: 6
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 55
+Ilość statków towarowych przebywających w dokach: 3
+Statki cywilne które opóściły port: 3
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 335.
+Dzienny przychód: 17378
+Zwodowane statki cywilne: 4
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 52
+Ilość statków towarowych przebywających w dokach: 4
+Statki cywilne które opóściły port: 7
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 336.
+Dzienny przychód: 2410
+Zwodowane statki cywilne: 3
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 51
+Ilość statków towarowych przebywających w dokach: 1
+Statki cywilne które opóściły port: 4
+Statki towarowe które wypłynęły w morze: 3
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 337.
+Dzienny przychód: 5137
+Zwodowane statki cywilne: 7
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 54
+Ilość statków towarowych przebywających w dokach: 1
+Statki cywilne które opóściły port: 4
+Statki towarowe które wypłynęły w morze: 0
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 338.
+Dzienny przychód: 17813
+Zwodowane statki cywilne: 4
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 54
+Ilość statków towarowych przebywających w dokach: 2
+Statki cywilne które opóściły port: 4
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 339.
+Dzienny przychód: 6367
+Zwodowane statki cywilne: 7
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 57
+Ilość statków towarowych przebywających w dokach: 1
+Statki cywilne które opóściły port: 4
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 340.
+Dzienny przychód: 2394
+Zwodowane statki cywilne: 3
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 56
+Ilość statków towarowych przebywających w dokach: 1
+Statki cywilne które opóściły port: 4
+Statki towarowe które wypłynęły w morze: 0
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 341.
+Dzienny przychód: 19584
+Zwodowane statki cywilne: 6
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 54
+Ilość statków towarowych przebywających w dokach: 2
+Statki cywilne które opóściły port: 8
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 342.
+Dzienny przychód: 18233
+Zwodowane statki cywilne: 3
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 53
+Ilość statków towarowych przebywających w dokach: 3
+Statki cywilne które opóściły port: 4
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 343.
+Dzienny przychód: 19867
+Zwodowane statki cywilne: 4
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 53
+Ilość statków towarowych przebywających w dokach: 5
+Statki cywilne które opóściły port: 4
+Statki towarowe które wypłynęły w morze: 0
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 344.
+Dzienny przychód: 4260
+Zwodowane statki cywilne: 6
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 54
+Ilość statków towarowych przebywających w dokach: 2
+Statki cywilne które opóściły port: 5
+Statki towarowe które wypłynęły w morze: 3
+Statki towarowe oczekujące na wejście do portu: 1
+
+Day 345.
+Dzienny przychód: 9776
+Zwodowane statki cywilne: 7
+Statki towarowe, które przybyły do portu: 1
+Ilość statków cywilnych przebywających w porcie: 58
+Ilość statków towarowych przebywających w dokach: 2
+Statki cywilne które opóściły port: 3
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 346.
+Dzienny przychód: 4504
+Zwodowane statki cywilne: 6
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 58
+Ilość statków towarowych przebywających w dokach: 0
+Statki cywilne które opóściły port: 6
+Statki towarowe które wypłynęły w morze: 2
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 347.
+Dzienny przychód: 15997
+Zwodowane statki cywilne: 7
+Statki towarowe, które przybyły do portu: 1
+Ilość statków cywilnych przebywających w porcie: 57
+Ilość statków towarowych przebywających w dokach: 1
+Statki cywilne które opóściły port: 8
+Statki towarowe które wypłynęły w morze: 0
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 348.
+Dzienny przychód: 7619
+Zwodowane statki cywilne: 3
+Statki towarowe, które przybyły do portu: 1
+Ilość statków cywilnych przebywających w porcie: 57
+Ilość statków towarowych przebywających w dokach: 2
+Statki cywilne które opóściły port: 3
+Statki towarowe które wypłynęły w morze: 0
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 349.
+Dzienny przychód: 26631
+Zwodowane statki cywilne: 6
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 56
+Ilość statków towarowych przebywających w dokach: 3
+Statki cywilne które opóściły port: 7
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 350.
+Dzienny przychód: 13698
+Zwodowane statki cywilne: 3
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 56
+Ilość statków towarowych przebywających w dokach: 4
+Statki cywilne które opóściły port: 3
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 351.
+Dzienny przychód: 9624
+Zwodowane statki cywilne: 4
+Statki towarowe, które przybyły do portu: 1
+Ilość statków cywilnych przebywających w porcie: 57
+Ilość statków towarowych przebywających w dokach: 4
+Statki cywilne które opóściły port: 3
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 352.
+Dzienny przychód: 3680
+Zwodowane statki cywilne: 5
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 56
+Ilość statków towarowych przebywających w dokach: 1
+Statki cywilne które opóściły port: 6
+Statki towarowe które wypłynęły w morze: 3
+Statki towarowe oczekujące na wejście do portu: 1
+
+Day 353.
+Dzienny przychód: 20785
+Zwodowane statki cywilne: 3
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 53
+Ilość statków towarowych przebywających w dokach: 2
+Statki cywilne które opóściły port: 6
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 1
+
+Day 354.
+Dzienny przychód: 19655
+Zwodowane statki cywilne: 5
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 50
+Ilość statków towarowych przebywających w dokach: 4
+Statki cywilne które opóściły port: 8
+Statki towarowe które wypłynęły w morze: 0
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 355.
+Dzienny przychód: 6023
+Zwodowane statki cywilne: 7
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 52
+Ilość statków towarowych przebywających w dokach: 2
+Statki cywilne które opóściły port: 5
+Statki towarowe które wypłynęły w morze: 2
+Statki towarowe oczekujące na wejście do portu: 0
+
+Day 356.
+Ten dzień nie był szczęśliwy dla marynarzy...
+W związku z zajściem poważnego wypadku na morzu, port został zamknięty, a podjęcie akcji ratunkowej przez służby kosztowało port: -125
+
+Day 357.
+Ten dzień nie był szczęśliwy dla marynarzy...
+W związku z zajściem poważnego wypadku na morzu, port został zamknięty, a podjęcie akcji ratunkowej przez służby kosztowało port: -125
+
+Day 358.
+Dzienny przychód: 20270
+Zwodowane statki cywilne: 5
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 52
+Ilość statków towarowych przebywających w dokach: 3
+Statki cywilne które opóściły port: 5
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 2
+
+Day 359.
+Dzienny przychód: 8840
+Zwodowane statki cywilne: 6
+Statki towarowe, które przybyły do portu: 1
+Ilość statków cywilnych przebywających w porcie: 51
+Ilość statków towarowych przebywających w dokach: 2
+Statki cywilne które opóściły port: 7
+Statki towarowe które wypłynęły w morze: 2
+Statki towarowe oczekujące na wejście do portu: 3
+
+Day 360.
+Dzienny przychód: 22669
+Zwodowane statki cywilne: 7
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 54
+Ilość statków towarowych przebywających w dokach: 3
+Statki cywilne które opóściły port: 4
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 3
+
+Day 361.
+Dzienny przychód: 10581
+Zwodowane statki cywilne: 5
+Statki towarowe, które przybyły do portu: 1
+Ilość statków cywilnych przebywających w porcie: 56
+Ilość statków towarowych przebywających w dokach: 2
+Statki cywilne które opóściły port: 3
+Statki towarowe które wypłynęły w morze: 2
+Statki towarowe oczekujące na wejście do portu: 3
+
+Day 362.
+Dzienny przychód: 15128
+Zwodowane statki cywilne: 7
+Statki towarowe, które przybyły do portu: 2
+Ilość statków cywilnych przebywających w porcie: 60
+Ilość statków towarowych przebywających w dokach: 3
+Statki cywilne które opóściły port: 3
+Statki towarowe które wypłynęły w morze: 1
+Statki towarowe oczekujące na wejście do portu: 3
+
+Day 363.
+Dzienny przychód: 6104
+Zwodowane statki cywilne: 7
+Statki towarowe, które przybyły do portu: 0
+Ilość statków cywilnych przebywających w porcie: 62
+Ilość statków towarowych przebywających w dokach: 0
+Statki cywilne które opóściły port: 5
+Statki towarowe które wypłynęły w morze: 3
+Statki towarowe oczekujące na wejście do portu: 3
+
+Day 364.
+Dzienny przychód: 27285
+Zwodowane statki cywilne: 3
+Statki towarowe, które przybyły do portu: 3
+Ilość statków cywilnych przebywających w porcie: 58
+Ilość statków towarowych przebywających w dokach: 3
+Statki cywilne które opóściły port: 7
+Statki towarowe które wypłynęły w morze: 0
+Statki towarowe oczekujące na wejście do portu: 1
+
+Day 365.
+Dzienny przychód: 26611
+Zwodowane statki cywilne: 5
+Statki towarowe, które przybyły do portu: 3
+Ilość statków cywilnych przebywających w porcie: 60
+Ilość statków towarowych przebywających w dokach: 6
+Statki cywilne które opóściły port: 3
+Statki towarowe które wypłynęły w morze: 0
 Statki towarowe oczekujące na wejście do portu: 0
 
